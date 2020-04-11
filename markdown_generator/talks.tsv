@@ -1,5 +1,32 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Shaping the Cloud and Edge from a QoSE (Quality-Open-Smart-Green) Perspective	Talk	talk-31	CCF YOCSEF桂林2019-2020年度换届大会暨YOCSEF TDS“网络分析与云服务”	2019-01-01	"Guilin, China"		
+Shaping the Cloud and Edge from a QoSE (Quality-Open-Smart-Green) Perspective	Talk	talk-30	未来网络前沿技术研讨会（FIF2019）	2019-01-01	"Dalian, China"		
+Shaping the Clouds from a QoSE (Quality-Open-Smart-Green) Perspective	Talk	talk-29	IEEE INFOCOM 2018 Workshop on Big Data and Cloud Performance (DCPerf 2018)	2018-04-16	"Hilton Hawaiian Village, Honolulu, HI, USA"	http://infocom2018.ieee-infocom.org/content/workshop-dcperf-big-data-and-cloud-performance-program	
+Shaping the Clouds from a QoSE (Quality-Open-Smart-Green) Perspective	Talk	talk-28	"IEEE ICCBB 2018 (International Conference on Cloud Computing, Big Data and Blockchain)"	2018-11-15	"Fuzhou, China"	http://fzuconf.com/ICCBB-2018/keynote.htm	
+Shaping the Clouds from a QoSE (Quality-Open-Smart-Green) Perspective	Talk	talk-27	CCF走进高校	2018-12-01	湖北汽车工业学院，十堰		
+Shaping the Clouds from a QoSE (Quality-Open-Smart-Green) Perspective	Talk	talk-26		2018-12-01	南昌大学，南昌		
+科普讲座与校招宣讲：互联网与物联网前沿	Talk	talk-25		2018-12-01	南宁三中、武鸣高中		
+Hybrid Clouds：A Networking and Distributed Systems Approach	Talk	talk-24	中国互联网学术年会CCF ICOC 2017首届优秀青年学者论坛	2017-08-01		http://cloud.guet.edu.cn/icoc2017/8.html	
+Hybrid Clouds：A Networking and Distributed Systems Approach	Talk	talk-23	第十一届中国物联网学术会议CCF CWSN 2017优秀青年学者论坛	2017-10-13		http://www.ccf.org.cn/c/2017-10-19/617313.shtml	
+Green Computing：A Perspective from Datacenter Energy Management	Talk	talk-22		2016-09-01	武汉大学，武汉		
+Green Computing：A Perspective from Datacenter Energy Management	Talk	talk-21		2016-09-01	湖北工业大学，武汉		
+绿色数据中心高效能管理：监测、优化与未来	Talk	talk-20	CCF分布式计算与系统专委会年会	2016-08-01	桂林理工大学，桂林		
+From Online Cloud Services to Underlying Datacenter Infrastructures	Talk	talk-19	第一期全国高校SDN学术研讨会	2016-08-01	南京无线谷，南京		
+“云-端融合”的互联网分布式系统：从移动互联网到数据中心	Talk	talk-18		2015-06-01	南京大学，南京	http://keysoftlab.nju.edu.cn/site/ndjsjx/contentzz_a201505264261.html?parentboardid=34	
+“云-端融合”的互联网分布式系统：从移动互联网到数据中心	Talk	talk-17		2015-06-01	上海科技大学，上海		
+“云-端融合”的互联网分布式系统：从移动互联网到数据中心	Talk	talk-16		2015-04-01	华东师范大学，上海	http://www.cs.ecnu.edu.cn/s/69/t/247/f1/22/info127266.htm	
+从在线云服务到线下数据中心该如何优化	Talk	talk-15	2014未来网络专题暑期班	2014-07-01	未来网络无线谷，南京	http://www.raincent.com/train/index.php/Home/Video/index.html	
+数据中心网络虚拟化与性能保证	Talk	talk-14	中国计算机学会与上海市计算机学会举办的IT青年前沿学术系列报告会(三)“前沿互联网技术与应用”	2014-07-09	"Fudan University, Shanghai"	http://www.yocsef.org.cn/sites/yocweb/shanghai.jsp?contentId=2816611273356	
+From Online Cloud Services to Underlying Datacenter Optimization: A Top-Down Approach	Talk	talk-13		2013-11-26	"The University of Hong Kong, Hong Kong"		
+From Online Cloud Services to Underlying Datacenter Optimization: Bridging Theory and Practice 	Talk	talk-12		2013-11-01	"Chongqing University, Chongqing"	http://grid.hust.edu.cn/fmliu/seminar-chongqing-2013.jpg	
+From Online Cloud Services to Underlying Datacenter Optimization: A Top-Down Approach	Talk	talk-11		2013-10-28	"Dalian University of Technology, Dalian"		
+From Online Cloud Services to Underlying Datacenter Optimization: Bridging Theory and Practice	Talk	talk-10		2013-08-23	"Simon Fraser University (SFU), Vancouver, Canada"		
+"Software-Defined Datacenter Networks: Opportunities, Challenges and Practice"	Talk	talk-9	"CCF YOCSEF Workshop on ""Big Data and SDN"""	2013-08-17	"Sun Yat-sen University (SYSU), Guangzhou"	http://www.yocsef.org.cn/sites/yocweb/guangzhou.jsp?contentId=2754751753493	
+From Online Cloud Services to Underlying Datacenter Optimization: A Top-Down Approach	Talk	talk-8		2013-08-27	"University of Alberta (U of A), Edmonton, Canada"		
+From Online Cloud Services to Underlying Datacenter Optimization: Bridging Theory and Practice	Talk	talk-7		2013-05-29	"Beijing Institute of Technology (BIT), Beijing"	http://www.bit.edu.cn/xxgk/xysz/rjxy/87684.htm	
+From Online Cloud Services to Underlying Datacenter Optimization: A Top-Down Approach	Talk	talk-6		2013-03-21	"Nanyang Technological University (NTU), Singapore"		
+From Online Cloud Services to Underlying Datacenter Optimization: Bridging Theory and Practice	Talk	talk-5		2012-06-27	"Microsoft Research Asia (MSRA), Beijing"		
+Cinematic-Quality VoD in a P2P Storage Cloud	Talk	talk-4	"CCF YOCSEF Workshop on ""Multimedia Streaming and Cloud Computing"""	2012-11-23	"Fudan University, Shanghai"	http://www.yocsef.org.cn/sites/yocweb/shanghai.jsp?contentId=2708095774759	
+From Online Cloud Services to Underlying Datacenter Optimization: NSFK Key Program Report	Talk	talk-3		2012-11-24	"Shanghai Jiao Tong University, Shanghai"		
+Cloud Storage and Distribution in the Internet	Talk	talk-2		2011-01-10	"Institute of Computing Technology, Chinese Academy of Sciences, Beijing"		
+Advice & Inspiration for Students in Computer Science (10 Years of My Academic Roadmap: 2001~2011)	Talk	talk-1		2011-04-08	"School of Computer Science & Technology, Huazhong University of Science & Technology"		
