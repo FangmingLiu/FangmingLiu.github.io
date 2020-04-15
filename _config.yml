@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Fangming Liu"
   avatar           : "fmliu.jpg"
-  bio              : "HUST"
-  location         : "Wuhan, China"
+  bio              : "Professor, NSFC National Science Fund for Excellent Young Scholars (国家优秀青年科学基金获得者), CloudNeXt (Cloud dataceNter & grEen computing/communicaTions) group, Services Computing Technology and System Lab, School of Computer Science and Technology, Huazhong University of Science and Technology"
+  location         : "No.5 Eastern Building, No.1037 Luoyu Road, Hongshan District, Wuhan, 430074, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=MfjcVE4AAAAJ&hl=en"
   email            : "fmliu@hust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
