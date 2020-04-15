@@ -1,10 +1,8 @@
 ---
 permalink: /awards/
-title: "Awards"
+title: "Honors and Awards"
 author_profile: true
 ---
-
-## Honors and Awards
 
 * First Class Prize of Natural Science of Ministry of Education in China (教育部自然科学一等奖)：云计算环境下虚拟机资源管理基础理论与核心方法（The fundamental theory and key approach of virtual machine resource management in cloud computing）
 * ACM e-Energy 2018 (supported by ACM SIGCOMM) Best Paper Award

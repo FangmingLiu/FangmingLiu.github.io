@@ -1,10 +1,8 @@
 ---
 permalink: /grants/
-title: "Grants"
+title: "Research Grants"
 author_profile: true
 ---
-
-## Research Grants
 
 * National Science Fund for Excellent Young Scholars (国家优秀青年科学基金获得者), National Natural Science Foundation of China (NSFC), No.61722206, "Network Resource Sharing and Management" (网络资源共享与管理), Principal Investigator, 01/2018 – 12/2020.
 * NSFC-DFG Joint Research Project (国家自然科学基金委员会与德国科学基金会国际合作研究项目), National Natural Science Foundation of China (NSFC) and Deutsche Forschungsgemeinschaft (DFG), No.61761136014, "SmartEdge: Concepts and Methods for Edge Computing" (边缘计算基础理论与关键技术), Principal Investigator (Fangming Liu is the PI in China, and Prof. Max Mühlhäuser is the PI in Germany who is a member of ACATECH (德国科学与工程院院士)), 01/2018 – 12/2020.

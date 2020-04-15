@@ -1,10 +1,8 @@
 ---
 permalink: /patent/
-title: "Patent"
+title: "Patent & Open-Source Codes & Software Copyright (专利、软件著作版权)"
 author_profile: true
 ---
-
-## Patent & Open-Source Codes & Software Copyright (专利、软件著作版权)
 
 * Open-source codes of DHL (dynamic hardware library): an FPGA-CPU co-design framework for accelerating NFV with DPDK)，with detailed description in our ICDCS 2018 paper: "DHL: Enabling Flexible Software Network Functions with FPGA Acceleration"
 * 一种网盘应用程序编程接口的测量方法和系统，ZL201610303246.5
