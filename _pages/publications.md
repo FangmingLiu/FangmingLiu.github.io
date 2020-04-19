@@ -6,6 +6,12 @@ author_profile: true
 
 ## Journal Publications:
 
+* Qiong Chen, Zimu Zheng, Chuang Hu, Dan Wang, and **Fangming Liu\***, "On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation", IEEE Transactions on Parallel and Distributed Systems, Vol. 31, No. 6, Jun. 2020.
+* Zimu Zheng, Qiong Chen, Cheng Fan, Nan Guan, Arun Vishwanath, Dan Wang, and Fangming Liu, "An Edge Based Data-Driven Chiller Sequencing Framework for HVAC Electricity Consumption Reduction in Commercial Buildings", to appear in IEEE Transactions on Sustainable Computing, 2020.
+* Xiaomeng Yi, Li Pan, Yanqi Jin, **Fangming Liu\***, and Minghua Chen, "eDirect: Energy-Efficient D2D-Assisted Relaying Framework for Cellular Signaling Reduction", IEEE/ACM Transactions on Networking (TON), Vol. 28, No. 2, Apr. 2020.
+* Yi Li, **Fangming Liu\***, Qiong Chen, Yibing Sheng, Miao Zhao, and Jianping Wang, "MarVeLScaler: A Multi-View Learning based Auto-Scaling System for MapReduce", to appear in IEEE Transactions on Cloud Computing, 2020.
+* Xincai Fei, **Fangming Liu\***, Hai Jin, and Bo Li, "FlexNFV: Flexible Network Service Chaining with Dynamic Scaling", to appear in IEEE Network Magazine, 2020.
+* 周知, 刘方明. “面向多租户数据中心资源回收利用的能效激励机制”, 中国科学: 信息科学, 2019.
 * Zhi Zhou, **Fangming Liu\***, Shutong Chen, Zongpeng Li, ["A Truthful and Efficient Incentive Mechanism for Demand Response in Green Datacenters"](https://jiahaihu.github.io/tpds2018-DR-datacenter.pdf), to appear in [IEEE Transactions on Parallel and Distributed Systems](http://www.computer.org/portal/web/tpds/home), 2019.
 * Song Wu, Yang Chen, Xinhou Wang, Hai Jin, **Fangming Liu**, Haibao Chen, Chuxiong Yan, ["Precise Power Capping for Latency-Sensitive Applications in Datacenter"](https://jiahaihu.github.io/tsc2018-datacenter-power-capping.pdf), to appear in [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), 2019.
 * Youshi Wang, Fa Zhang, Ce Chi, Shaolei Ren, **Fangming Liu**, Rui Wang, Zhiyong Liu, ["A Market-oriented Incentive Mechanism for Emergency Demand Response in Colocation Data Centers"](https://jiahaihu.github.io/sustainable-computing-datacenter-EDR-2019.pdf), [Sustainable Computing: Informatics and Systems](https://authors.elsevier.com/c/1Yc0Q7sdZtOW9-), Vol. 22, pp. 13-25, Jun. 2019.
@@ -44,6 +50,9 @@ author_profile: true
 
 ## Conference Publications:
 
+* Miao Li, Qixia Zhang, and **Fangming Liu\***, "Finedge: A Dynamic Cost-efficient Edge Resource Management Platform for NFV Network", in Proc. of IEEE/ACM IWQoS, 15-17 June, 2020, Hangzhou, China.
+* Panpan Jin, Xincai Fei, Qixia Zhang, **Fangming Liu\***, and Bo Li, "Latency-aware VNF Chain Deployment with Efficient Resource Reuse at Network Edge", in Proc. of IEEE INFOCOM, acceptance ratio: 19.8%, 6-9 July 2020, Online Conference.
+* Xinhui Zhu, Weixiang Jiang, **Fangming Liu\***, Qixia Zhang, Li Pan, Qiong Chen, and Ziyang Jia, "Heat to Power: Thermal Energy Harvesting and Recycling for Warm Water-Cooled Datacenters", in Proc. of ACM/IEEE ISCA, 77 out of 421 submissions (acceptance ratio: 18%), May 30 - June 3, 2020, Valencia, Spain.
 * Weixiang Jiang, Ziyang Jia, Sirui Feng, **Fangming Liu\***, and Hai Jin, ["Fine-grained Warm Water Cooling for Improving Datacenter Economy"](https://jiahaihu.github.io/ISCA2019-Datacenter-WaterCooling-FangmingLiu.pdf), in Proc. of ACM/IEEE [**ISCA**](https://iscaconf.org/isca2019) co-located with [ACM FCRC (Federated Computing Research Conference)](https://fcrc.acm.org/), **62 out of 365 submissions (acceptance ratio: 16.9%)**, 22-26 June 2019, Phoenix, Arizona, USA. (**[Lightning Talk Video on Youtube](https://www.youtube.com/watch?v=K9sR9zOSVaU)**)
 * Panpan Jin, Jian Guo, Yikai Xiao, Rong Shi, Yipei Niu, **Fangming Liu\***, Chen Qian, and Yang Wang, ["PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing"](https://jiahaihu.github.io/Postman-ATC19-FangmingLiu.pdf), in Proc. of [**USENIX ATC**](https://www.usenix.org/conference/atc19/), **71 out of 356 submissions (acceptance ratio: 19.9%)**, 10-12 July 2019, Renton, WA, USA.
 * Qiong Chen, Zimu Zheng, Chuang Hu, Dan Wang, and **Fangming Liu\***, ["Data-driven Task Allocation for Multi-task Transfer Learning on the Edge"](https://jiahaihu.github.io/ICDCS2019-ML-on-Edge.pdf), in Proc. of IEEE [**ICDCS**](https://theory.utdallas.edu/ICDCS2019/), **acceptance ratio: 19.6%**, 7-10 July 2019, Dallas, Texas, USA.
