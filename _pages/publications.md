@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
-* Xincai Fei, **Fangming Liu\***, Qixia Zhang, Hai Jin, and Hongxin Hu, “Paving the Way for NFV Acceleration: A Taxonomy, Survey and Future Directions”, ACM Computing Surveys, 2020.
+* Xincai Fei, **Fangming Liu\***, Qixia Zhang, Hai Jin, and Hongxin Hu, “Paving the Way for NFV Acceleration: A Taxonomy, Survey and Future Directions”, [ACM Computing Surveys](https://dl.acm.org/journal/csur), 2020.
 * Qiong Chen, Zimu Zheng, Chuang Hu, Dan Wang, and **Fangming Liu\***, ["On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation"](https://ieeexplore.ieee.org/document/8943178), [IEEE Transactions on Parallel and Distributed Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71), Vol. 31, No. 6, Jun. 2020.
 * Xiaomeng Yi, Li Pan, Yanqi Jin, **Fangming Liu\***, and Minghua Chen, ["eDirect: Energy-Efficient D2D-Assisted Relaying Framework for Cellular Signaling Reduction"](https://ieeexplore.ieee.org/document/9018118), [IEEE/ACM Transactions on Networking (TON)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90), Vol. 28, No. 2, Apr. 2020.
 * Zimu Zheng, Qiong Chen, Cheng Fan, Nan Guan, Arun Vishwanath, Dan Wang, and **Fangming Liu**, ["An Edge Based Data-Driven Chiller Sequencing Framework for HVAC Electricity Consumption Reduction in Commercial Buildings"](https://ieeexplore.ieee.org/document/8781847), to appear in [IEEE Transactions on Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), 2020.
