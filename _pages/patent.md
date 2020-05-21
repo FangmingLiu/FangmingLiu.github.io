@@ -4,6 +4,7 @@ title: "Patent & Open-Source Codes & Software Copyright"
 author_profile: true
 ---
 
+* Non-Intrusive Fine-grained Power Monitoring of Datacenters, US 10,552,761B2, 2020. Feb. 4
 * FPGA-based Method for Network Function Accelerating and System Thereof，美国专利
 * 基于OpenStack的服务链通信管理系统V1.0，证书号：软著登字第4154273号，登记号：2019SR0733516，登记日期：2019年07月16日
 * 一种调度和链接虚拟网络功能的方法及系统，专利号ZL201711262639.7

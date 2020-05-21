@@ -9,8 +9,14 @@ author_profile: true
 * Jian Guo (GPA: 88.28/100, Rank: 9/342, 连续两次获得2012和2013年度研究生国家奖学金，以及搜狐科研实践奖学金，优秀毕业后以高技术级别被华为公司聘请从事云计算产品线工作)
 * Zhi Zhou (获2013年Google Excellent Scholarship (Google优秀奖学金)、2013年和2016年研究生国家奖学金、湖北省优秀学士学位论文、湖北省优秀硕士学位论文（Excellent Master Dissertation Award of Hubei Province）、搜狐科研实践奖学金，优秀毕业后已在中山大学获得教职继续从事学术科研工作)
 * Shutong Chen
-* Yipei Niu（获得2017年研究生国家奖学金
-* Qixia Zhang（获得2017年研究生国家奖学金、2018年华为奖学金
+* Yipei Niu（获得2017年研究生国家奖学金)
+* Qixia Zhang（获得2017年研究生国家奖学金、2018年华为奖学金、2019年研究生国家奖学金)
+* Jing Wu
+* Zhaojie Wen
+* Qiangyu Pei
+* Jiahai Hu
+* Quanfeng Deng
+
 other PhD students co-supervised with Prof. Hai Jin: 
 * Fei Xu (graduated in 2014，湖北省优秀博士学位论文（Excellent Doctoral Dissertation Award of Hubei Province），优秀毕业后已在上海华东师范大学担任副教授继续从事学术科研工作)
 * Wei Deng (graduated in 2014, 获2012和2013年度研究生国家奖学金)
@@ -35,11 +41,19 @@ other PhD students co-supervised with Prof. Hai Jin:
 * Chaobing Zeng（2018年度研究生国家奖学金）
 * Yi Li
 * Dongfeng Huang
-* Qiong Chen（2018年华为奖学金）
-* Bin Gao（2018年华为奖学金）
+* Qiong Chen（2018年华为奖学金、2019年华为奖学金、2019年研究生国家奖学金）
+* Bin Gao（2018年华为奖学金、2019年研究生国家奖学金）
 * Miao Li
-* Panpan Jin
+* Panpan Jin（2019年研究生国家奖学金）
 * Zhuangzhuang Xu
+* Li Pan
+* Xiuhui Zhu
+* Shiming Xu
+* Jian Chen
+* Xinyu Wan
+* Wanquan Xu
+* Dou Feng
+* Zhen Zong
 
 ## Undergraduate Students and Final Year Projects:
 
@@ -80,6 +94,6 @@ other PhD students co-supervised with Prof. Hai Jin:
 * android平台校园约饭app项目开发（陈泽峰，徐璞逸，吴志远，秦余可，朱子涛），2019
 * 企业协作软件SalesGo（蔡承晏，贺杰彦，刘子康，王英嘉，王胤臻），2019
 * 基于网络爬虫技术的社交媒体用户特性及其关系分析（何天流，邓小阳，彭科银），2018-2019
-* 基于位置服务（LBS)的信息公布软件（高加楼，向绍杰，杨霖，唐浩锋，鲍继伟），2016
+* 基于位置服务（LBS）的信息公布软件（高加楼，向绍杰，杨霖，唐浩锋，鲍继伟），2016
 * 基于物联网技术的公共场所座位查找系统（冯思锐，许天成，丁宁，刘浩真，龚震宇），2016
 * 关于校园风景分享社区的应用开发（刘仁婉，刘贺，赵玉莹），2016
