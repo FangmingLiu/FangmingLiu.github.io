@@ -4,9 +4,10 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
+* IEEE/ACM IWQoS 2019, <span style="color:red;">Best Paper Award</span>
 * ACM Wuhan Best Supervisor Award, 2019
 * First Class Prize of Natural Science of Ministry of Education in China (教育部自然科学一等奖)：云计算环境下虚拟机资源管理基础理论与核心方法（The fundamental theory and key approach of virtual machine resource management in cloud computing）, 2018
-* ACM e-Energy 2018 (supported by ACM SIGCOMM) <span style="color:red;">Best Paper Award</span>
+* ACM e-Energy 2018 (supported by ACM SIGCOMM), <span style="color:red;">Best Paper Award</span>
 * 五四青年奖章，华中科技大学, 2018
 * 华为奖教金获得者，由华为技术有限公司在华中科技大学设立, 2017
 * National Program for Support of Top-Notch Young Professionals of National Program for Special Support of Eminent Professionals (国家高层次人才特殊支持计划（中组部“万人计划”）青年拔尖人才), issued by Central Organization Department of CPC, China, since 2014
