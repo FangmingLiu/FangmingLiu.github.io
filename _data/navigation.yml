@@ -3,14 +3,26 @@ main:
 # - title: "Biography"
 #   url: /biography/
   
-  - title: "Grants"
-    url: /grants/
-
   - title: "Publications"
     url: /publications/
 
+  - title: "Grants"
+    url: /grants/
+
+  - title: "Patent/Software"
+    url: /patent/
+
   - title: "Professional Services"
     url: /professional/
+
+  - title: "Honors/Awards"
+    url: /awards/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Group/Students"
+    url: /group/
 
   - title: "Talks"
     url: /talks/
@@ -26,15 +38,3 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
-
-  - title: "Honors/Awards"
-    url: /awards/
-
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Group/Students"
-    url: /group/
-
-  - title: "Patent/Software"
-    url: /patent/
