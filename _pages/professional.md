@@ -6,12 +6,12 @@ author_profile: true
 
 ## Conference Keynote:
 
-* [News] In 2018, he is invited to be the Keynote Speaker in IEEE INFOCOM 2018 Workshop on Big Data and Cloud Performance (DCPerf 2018), on Monday, April 16, 08:10-09:00 am, Room: Iolani 3, Hilton Hawaiian Village, Honolulu, HI, USA, titled "Shaping the Clouds from a QoSE (Quality-Open-Smart-Green) Perspective"
-* [News] In 2018, he is invited to be the Keynote Speaker in IEEE ICCBB 2018 (International Conference on Cloud Computing, Big Data and Blockchain), Nov. 15, Ramada Plaza Fuzhou, Fuzhou, China, titled "Shaping the Cloud and Edge from a QoSE (Quality-Open-Smart-Green) Perspective"
+* [News] In 2018, he is invited to be the Keynote Speaker in <a href="http://infocom2018.ieee-infocom.org/content/workshop-dcperf-big-data-and-cloud-performance-program">IEEE INFOCOM 2018 Workshop on Big Data and Cloud Performance (DCPerf 2018)</a>, on Monday, April 16, 08:10-09:00 am, Room: Iolani 3, Hilton Hawaiian Village, Honolulu, HI, USA, titled "Shaping the Clouds from a QoSE (Quality-Open-Smart-Green) Perspective"
+* [News] In 2018, he is invited to be the Keynote Speaker in <a href="http://fzuconf.com/ICCBB-2018/keynote.htm">IEEE ICCBB 2018 (International Conference on Cloud Computing, Big Data and Blockchain)</a>, Nov. 15, Ramada Plaza Fuzhou, Fuzhou, China, titled "Shaping the Cloud and Edge from a QoSE (Quality-Open-Smart-Green) Perspective"
 
 ## Editor-in-Chief:
 
-* [News] In the light of his overall experience in the field of cloud computing, he was appointed by EAI (European Alliance for Innovation) as the Editor-in-Chief of the EAI Endorsed Transactions on Collaborative Computing, see our Welcome Message and Inaugural Issue (PDF version)
+* [News] In the light of his overall experience in the field of cloud computing, he was appointed by EAI (European Alliance for Innovation) as the Editor-in-Chief of the EAI Endorsed Transactions on Collaborative Computing (2015-2018), see our <a href="http://eudl.eu/issue/cc/1/5">Welcome Message and Inaugural Issue</a> (PDF version)
 
 ## Guest Editor
 
@@ -66,6 +66,8 @@ author_profile: true
 
 ## Program Committee Member (TPC):
 
+* WWW 2020
+* ACM e-Energy 2020
 * IEEE/ACM IWQoS 2019
 * IEEE ICDCS 2019
 * ACM e-Energy 2019
@@ -137,3 +139,11 @@ author_profile: true
 * The Chinese University of Hong Kong, 2016
 * City University of Hong Kong, 2016
 * 武汉大学, 2018
+* 中科院计算所, 2020
+
+## Visiting Experience:
+
+* Visiting Professor of Simon Fraser Universiy, Canada, Aug - Oct. 2013
+* Visiting Professor of Nanyang Technological University, Singapore, Mar. 2013
+* Visiting Professor of City University of Hong Kong, Hong Kong, Jun. 2013
+* Visiting Professor of Hong Kong University of Science and Technolgoy, Hong Kong, 2012
