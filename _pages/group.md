@@ -41,19 +41,19 @@ other PhD students co-supervised with Prof. Hai Jin:
 * Chaobing Zeng（2018年度研究生国家奖学金）
 * Yi Li
 * Dongfeng Huang
-* Qiong Chen（2018年华为奖学金、2019年华为奖学金、2019年研究生国家奖学金）
+* Qiong Chen（2018年华为奖学金、2019年研究生国家奖学金）
 * Bin Gao（2018年华为奖学金、2019年研究生国家奖学金）
 * Miao Li
 * Panpan Jin（2019年研究生国家奖学金）
 * Zhuangzhuang Xu
 * Li Pan
-* Xiuhui Zhu
-* Shiming Xu
+* Xinhui Zhu
+* Shimin Xu
 * Jian Chen
 * Xinyu Wan
 * Wanquan Xu
 * Dou Feng
-* Zhen Zong
+* Zhen Song
 
 ## Undergraduate Students and Final Year Projects:
 
