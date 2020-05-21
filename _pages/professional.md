@@ -31,7 +31,7 @@ author_profile: true
 * IEEE Senior Member
 * ACM Member
 * USENIX Member
-* CCF Senior Member, CCF青工委预备委员
+* CCF Senior Member
 
 ## Special Interest Group:
 
@@ -125,7 +125,6 @@ author_profile: true
 * 中国计算机学会博士学位论文评审专家、CCF优秀博士学位论文奖评审专家、CCF青年人才托举计划函评评委
 * 山东省科学技术奖评审专家
 * IEEE Journal on Selected Areas in Communications (JSAC), IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Multimedia, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Computers, IEEE Transactions on Cloud Computing, ACM Transactions on Cyber-Physical Systems, ACM Transactions on Autonomous and Adaptive Systems, ACM Computing Surveys, IEEE Transactions on Vehicular Technology, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Network and Service Management, IEEE Transasctions on Emerging Topics in Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Sustainable Computing, Transactions on Emerging Telecommunications Technologies, IEEE Wireless Communications Magazine, IEEE Network Magazine, IEEE Communications Magazine, Oxford The Computer Journal, IEEE Communications Letters, IEEE Signal Processing Letters, Peer-to-Peer Networking and Applications Journal, Elsevier Computer Networks Journal, Concurrency and Computation: Practice and Experience, SCIENCE CHINA Information Sciences
-* IEEE ICNP 2013 Demo, IEEE Infocom 2011, IEEE Globecom 2010, IEEE ICC 2013, IEEE ICC 2009
 * 湖北省科技计划评委
 * 中国计算机学会第十一次会员代表大会会员代表
 * 全国研究生移动终端应用设计创新大赛评审专家（第一届和第二届），教育部学位与研究生教育发展中心主办
