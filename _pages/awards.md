@@ -4,7 +4,8 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
-* First Class Prize of Natural Science of Ministry of Education in China (教育部自然科学一等奖)：云计算环境下虚拟机资源管理基础理论与核心方法（The fundamental theory and key approach of virtual machine resource management in cloud computing）
+* ACM Wuhan Best Supervisor Award, 2019
+* First Class Prize of Natural Science of Ministry of Education in China (教育部自然科学一等奖)：云计算环境下虚拟机资源管理基础理论与核心方法（The fundamental theory and key approach of virtual machine resource management in cloud computing）, 2018
 * ACM e-Energy 2018 (supported by ACM SIGCOMM) <span style="color:red;">Best Paper Award</span>
 * 五四青年奖章，华中科技大学, 2018
 * 华为奖教金获得者，由华为技术有限公司在华中科技大学设立, 2017
@@ -24,10 +25,6 @@ author_profile: true
 * 华中科技大学“科技创新优秀指导教师”, 2014
 * 华中科技大学2012届本科生优秀毕业设计（论文）一等奖指导教师, Student: 周知 (now my PhD student)
 * 2013年华中科技大学暑期社会实践活动“优秀指导教师”
-* Visiting Professor of Simon Fraser Universiy, Canada, Aug - Oct. 2013
-* Visiting Professor of Nanyang Technological University, Singapore, Mar. 2013
-* Visiting Professor of City University of Hong Kong, Hong Kong, Jun. 2013
-* Visiting Professor of Hong Kong University of Science and Technolgoy, Hong Kong, 2012
 * HKTIIT Post-Graduate Excellence Scholarships 2009/2010, The Hong Kong Telecom Institute of Information Technology (for outstanding achievement in the research area of networking and multimedia technologies)
 * HKUST Overseas Research Award 2009 (Oversea research at the Department of Electrical and Computer Engineering, University of Toronto, Canada)
 * HKUST PhD Student Scholarship 2007 - 2011
