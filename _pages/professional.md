@@ -66,46 +66,22 @@ author_profile: true
 
 ## Program Committee Member (TPC):
 
-* WWW 2020
-* ACM e-Energy 2020
-* IEEE/ACM IWQoS 2019
-* IEEE ICDCS 2019
-* ACM e-Energy 2019
-* IEEE INFOCOM 2019 (Distinguished TPC)
-* WWW 2019 Demo Track
-* ACM Multimedia 2018
-* IEEE INFOCOM 2018
-* ACM e-Energy 2018
-* IEEE/ACM IWQoS 2018
-* WWW 2018 Demo Track
-* IEEE GLOBECOM 2018
-* IEEE ICDCS 2017 (both "Cloud Computing and Data Centers" track and "Distributed Green Computing & Energy Management" track)
-* IEEE INFOCOM 2017
-* ACM e-Energy 2017
-* ACM Multimedia Systems (MMSys) 2017 (Cloud-based Multimedia)
+* WWW 2018/2019/2020
+* ACM e-Energy 2016/2017/2018/2019/2020
+* IEEE/ACM IWQoS 2016/2017/2018/2019
+* IEEE ICDCS 2015/2016/2017/2019
+* IEEE INFOCOM 2013/2014/2015/2016/2017/2018/2019 (Distinguished TPC)
+* ACM Multimedia 2014/2016/2017/2018
+* IEEE GLOBECOM 2012/2013/2014/2015/2018
 * ACAC (1st ACM China Annual Conference) 2017 SIGCOMM China Symposium
 * USENIX CoolDC 2017 (2nd Workshop on Cool Topics in Sustainable Data Centers), colocated with USENIX ASPLOS 2017
 * IEEE LANMAN 2017
-* ACM Multimedia 2016 (Multimedia Systems and Middleware)
-* IEEE ICDCS 2016
-* ACM e-Energy 2016
 * IEEE CCNC 2017 (14th Annual IEEE Consumer Communications & Networking Conference) (Cloud Services and Networking track), co-location with CES (the world’s largest tradeshow on consumer technology, extensive press coverage and ~150,000 attendees)
-* IEEE INFOCOM 2016
-* IEEE/ACM IWQoS 2016-2017
-* ACM Multimedia 2014 (Multimedia Systems and Middleware Area)
-* IEEE INFOCOM 2015
-* IEEE ICDCS 2015
 * IEEE ICNP 2014
-* IEEE INFOCOM 2014
-* IEEE INFOCOM 2013
-* IEEE Globecom 2014, IEEE Globecom 2015
 * IEEE IPCCC 2015 (34th IEEE -- International Performance Computing and Communications Conference)
 * IEEE ICNC 2014 (International Conference on Computing, Networking and Communications)
-* IEEE Globecom 2013 - Next Generation Networking Symposium
 * MCSC 2013 - The 1st International Workshop on Mobile Cloud and Social Computing, which will be in held in conjunction with ICDCS 2013 at Philadelphia, USA, July 08-11, 2013.
 * CSC 2013 - The International Conference on Cloud and Service Computing, Beijing, Nov.4-6, 2013.
-* IEEE Globecom 2012 - Communications QoS, Reliability and Modelling Symposium
-* IEEE Globecom 2012 - Next Generation Networking and Internet Symposium
 * The 7th International Conference on Frontier of Computer Science and Technology (FCST-12)
 * CoNEXT 2011 (Shadow TPC)
 * IEEE CCNC 2016 （The 13th Annual IEEE Consumer Communications & Networking Conference）
