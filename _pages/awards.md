@@ -18,8 +18,8 @@ author_profile: true
 * HUAZHONG Scholar Honour (华中学者，特聘岗), 2014
 * Distinguished Young Scientist by ACM-Wuhan & Hubei Computer Society (ACM武汉和湖北省计算机学会联合颁发的首届学术新星奖), 2014
 * CHUTIAN Scholar (湖北省“楚天学者计划”) of computer software and theory, Hubei Province, China, 2011
-* IEEE GLOBECOM 2011 Best Paper Award, one of the 14 best papers rigorously selected from 1070 papers, in Prof. of IEEE GLOBECOM, 2011
-* IEEE IUCC 2012 Best Paper Awards, in Prof. of 11th IEEE International Conference on Ubiquitous Computing and Communications (IUCC), 2012
+* IEEE GLOBECOM 2011 <span style="color:red;">Best Paper Award</span>, one of the 14 best papers rigorously selected from 1070 papers, in Prof. of IEEE GLOBECOM, 2011
+* IEEE IUCC 2012 <span style="color:red;">Best Paper Award</span>, in Prof. of 11th IEEE International Conference on Ubiquitous Computing and Communications (IUCC), 2012
 * IEEE CloudCom 2012 Best Paper Nominee, in Prof. of 4th IEEE International Conference on Cloud Computing Technology and Science (CloudCom), 2012
 * 湖北省自然科学优秀学术论文奖（二等奖）, 2014
 * 湖北省优秀学士、硕士学位论文指导教师（Excellent B.S. and Master Dissertation Awards of Hubei Province）（My students: Zhi Zhou and Peng Shu）, 2012-2014
