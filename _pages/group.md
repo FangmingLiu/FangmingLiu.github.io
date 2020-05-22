@@ -9,8 +9,8 @@ author_profile: true
 * Jian Guo（GPA: 88.28/100, Rank: 9/342, 连续两次获得2012和2013年度研究生国家奖学金，以及搜狐科研实践奖学金，优秀毕业后以高技术级别被华为公司聘请从事云计算产品线工作）
 * Zhi Zhou（2019年CCF优博提名、2013年Google优秀奖学金、2013年和2016年研究生国家奖学金、湖北省优秀学士学位论文、湖北省优秀硕士学位论文、搜狐科研实践奖学金，优秀毕业后已在中山大学获得教职继续从事学术科研工作）
 * Shutong Chen
-* Yipei Niu（获得2017年研究生国家奖学金）
-* Qixia Zhang（获得2017年研究生国家奖学金、2018年华为奖学金、2019年研究生国家奖学金）
+* Yipei Niu（2017年度研究生国家奖学金）
+* Qixia Zhang（2017年度研究生国家奖学金、2018年度华为奖学金、2019年度研究生国家奖学金）
 * Jing Wu
 * Zhaojie Wen
 * Qiangyu Pei
@@ -26,29 +26,29 @@ other co-supervised PhD students:
 
 ## Master Students:
 
-* Peng Shu（获2013年度研究生国家奖学金、搜狐科研实践奖学金、2014年华中科技大学优秀硕士毕业生、湖北省优秀硕士学位论文（Excellent Master Dissertation Award of Hubei Province），目前在华为公司工作）
-* Xiaoyun Wang（已在华为公司（深圳）工作）
+* Peng Shu（获2013年度研究生国家奖学金、搜狐科研实践奖学金、2014年华中科技大学优秀硕士毕业生、湖北省优秀硕士学位论文（Excellent Master Dissertation Award of Hubei Province），华为公司）
+* Xiaoyun Wang（华为公司）
 * Haowen Tang（Tencent, Shenzhen）
 * Bin Luo（Tencent, Shenzhen）
 * Zhifeng Xu（中国电信）
 * Guangyuan Wu（Tencent, Shenzhen）
-* Tao Wang（获2016年研究生国家奖学金）
+* Tao Wang（2016年度研究生国家奖学金）
 * Bo Huang（百度公司）
 * Yanqi Jin
 * Yikai Xiao（今日头条）
 * Xiaoyao Li（Intel 公司）
 * Xiuxiu Wang（中国电信）
-* Chaobing Zeng（2018年度研究生国家奖学金）
+* Chaobing Zeng（2018年度研究生国家奖学金，Intel公司）
 * Yi Li（海康威视）
 * Dongfeng Huang（海康威视）
-* Qiong Chen（2018年华为奖学金、2019年度研究生国家奖学金，华为公司）
-* Bin Gao（2018年华为奖学金、2019年度研究生国家奖学金）
+* Qiong Chen（2018年度华为奖学金、2019年度研究生国家奖学金，华为公司）
+* Bin Gao（2018年度华为奖学金、2019年度研究生国家奖学金）
 * Miao Li（Intel 公司）
-* Panpan Jin（2019年研究生国家奖学金，华为公司）
+* Panpan Jin（2019年度研究生国家奖学金，华为公司）
 * Zhuangzhuang Xu（阿里巴巴）
+* Shimin Xu（字节跳动）
 * Li Pan
 * Xinhui Zhu
-* Shimin Xu
 * Jian Chen
 * Xinyu Wan
 * Wanquan Xu
