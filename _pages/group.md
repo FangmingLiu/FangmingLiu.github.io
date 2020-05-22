@@ -40,7 +40,7 @@ other co-supervised PhD students:
 * Xiuxiu Wang（中国电信）
 * Chaobing Zeng（2018年度研究生国家奖学金，Intel公司）
 * Yi Li（海康威视）
-* Dongfeng Huang（海康威视）
+* Dongfeng Huang（华为公司）
 * Qiong Chen（2018年度华为奖学金、2019年度研究生国家奖学金，华为公司）
 * Bin Gao（2018年度华为奖学金、2019年度研究生国家奖学金）
 * Miao Li（Intel 公司）
