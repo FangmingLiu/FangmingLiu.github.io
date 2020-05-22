@@ -13,6 +13,11 @@ author_profile: true
 
 * [News] In the light of his overall experience in the field of cloud computing, he was appointed by EAI (European Alliance for Innovation) as the Editor-in-Chief of the EAI Endorsed Transactions on Collaborative Computing (2015-2018), see our <a href="http://eudl.eu/issue/cc/1/5">Welcome Message and Inaugural Issue</a> (PDF version)
 
+## Associate Editor:
+
+* Journal of Computer Science and Technology (JCST), Young AE, 2019 - now
+* Frontiers of Computer Science, Young AE, 2012-2018
+
 ## Guest Editor
 
 * [Call for Papers] CCF TON Special Issue on Edge Computing and Networking (see submission date/requirements and guest editors here)
@@ -20,11 +25,6 @@ author_profile: true
 * [Call for Papers] IEEE Network Magazine (Impact Factor: 3.72) Special Issue on Cloud and Data Center Performance (see our Guest Editorial)
 * [Call for Papers] Tsinghua Science and Technology (清华大学学报自然科学版(英文版)) Special Issue on Cloud Computing
 * [Call for Papers] International Journal of Distributed Sensor Networks Special Issue on Smart Sensing and Mobile Computing
-
-## Associate Editor:
-
-* Journal of Computer Science and Technology (JCST), Young AE, 2019 - now
-* Frontiers of Computer Science, Young AE, 2012-2018
 
 ## Memberships:
 
