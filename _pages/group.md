@@ -33,19 +33,19 @@ other co-supervised PhD students:
 * Zhifeng Xu（中国电信）
 * Guangyuan Wu（Tencent, Shenzhen）
 * Tao Wang（获2016年研究生国家奖学金）
-* Bo Huang
+* Bo Huang（百度公司）
 * Yanqi Jin
-* Yikai Xiao
-* Xiaoyao Li
-* Xiuxiu Wang
+* Yikai Xiao（今日头条）
+* Xiaoyao Li（Intel 公司）
+* Xiuxiu Wang（中国电信）
 * Chaobing Zeng（2018年度研究生国家奖学金）
-* Yi Li
-* Dongfeng Huang
-* Qiong Chen（2018年华为奖学金、2019年研究生国家奖学金）
-* Bin Gao（2018年华为奖学金、2019年研究生国家奖学金）
-* Miao Li
-* Panpan Jin（2019年研究生国家奖学金）
-* Zhuangzhuang Xu
+* Yi Li（海康威视）
+* Dongfeng Huang（海康威视）
+* Qiong Chen（2018年华为奖学金、2019年度研究生国家奖学金，华为公司）
+* Bin Gao（2018年华为奖学金、2019年度研究生国家奖学金）
+* Miao Li（Intel 公司）
+* Panpan Jin（2019年研究生国家奖学金，华为公司）
+* Zhuangzhuang Xu（阿里巴巴）
 * Li Pan
 * Xinhui Zhu
 * Shimin Xu
