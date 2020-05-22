@@ -7,7 +7,7 @@ author_profile: true
 ## US Patent:
 
 * Non-Intrusive Fine-Grained Power Monitoring of Datacenters, US 10,552,761B2, 2020. Feb. 4
-* FPGA-based Method for Network Function Accelerating and System Thereof，美国专利
+* FPGA-based Method for Network Function Accelerating and System Thereof，US20190213029，2019. Jul. 11
 
 ## 中国专利:
 
@@ -16,7 +16,7 @@ author_profile: true
 
 ## Open-Source:
 
-* <a href="https://gitee.com/opencloudnext/PostMan">PostMan</a>：an alternative approach to rapidly mitigate load imbalance for services processing small requests，with detailed description in our ATC 2019 paper: “PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing”
+* <a href="https://gitee.com/opencloudnext/PostMan">PostMan</a>: an alternative approach to rapidly mitigate load imbalance for services processing small requests，with detailed description in our ATC 2019 paper: “PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing”
 * <a href="https://github.com/OpenCloudNeXt/DHL">DHL</a> (dynamic hardware library): an FPGA-CPU co-design framework for accelerating NFV with DPDK，with detailed description in our ICDCS 2018 paper: "DHL: Enabling Flexible Software Network Functions with FPGA Acceleration"
 
 ## Software Copyright:
