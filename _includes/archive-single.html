@@ -44,9 +44,9 @@
 
         {% if post.collection == 'teaching' %}
           {% if post.venue %}
-            <p>{% if post.type != 'Grant' %} {{ post.type }},{% endif %} <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            <p>{% if post.type != 'Grant' %} {{ post.type }},{% endif %} <i>{{ post.venue }}</i>, {{ post.year }} </p>
           {% else %}
-            <p>{% if post.type != 'Grant' %} {{ post.type }},{% endif %} {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            <p>{% if post.type != 'Grant' %} {{ post.type }},{% endif %} {{ post.year }} </p>
           {% endif %}
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
