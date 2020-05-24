@@ -26,6 +26,9 @@ main:
 
   - title: "Talks"
     url: /talks/
+
+  - title: "Test"
+  url: /test/
     
 #  - title: "Portfolio"
 #    url: /portfolio/
