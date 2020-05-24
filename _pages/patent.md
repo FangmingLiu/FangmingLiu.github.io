@@ -23,12 +23,12 @@ author_profile: true
 
 ## Open-Source:
 
-* <a href="https://gitee.com/opencloudnext/PostMan">PostMan</a>: an alternative approach to rapidly mitigate load imbalance for services processing small requests, with detailed description in our ATC 2019 paper: “PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing”
+* <a href="https://gitee.com/opencloudnext/PostMan">PostMan</a>: an alternative approach to rapidly mitigate load imbalance for services processing small requests, with detailed description in our USENIX ATC 2019 paper: “PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing”
 * <a href="https://github.com/OpenCloudNeXt/DHL">DHL</a> (dynamic hardware library): an FPGA-CPU co-design framework for accelerating NFV with DPDK, with detailed description in our ICDCS 2018 paper: "DHL: Enabling Flexible Software Network Functions with FPGA Acceleration"
 
-## Software Copyright:
+## 国家计算机软件著作版权:
 
 * 基于OpenStack的服务链通信管理系统V1.0，证书号：软著登字第4154273号，登记号：2019SR0733516，登记日期：2019年07月16日
 * 基于OpenStack和容器的多云资源调度系统[简称:Trio2o]V1.0，软著登字第2859942号，国家计算机软件著作版权
-* 多维度资源性能干扰感知的虚拟机在线迁移系统，软著登字第0598801，国家计算机软件著作版权
-* 虚拟化数据中心的可靠性感知的能耗管理模拟软件，软著登字第059852，国家计算机软件著作版权
+* 多维度资源性能干扰感知的虚拟机在线迁移系统，软著登字第0598801号，国家计算机软件著作版权
+* 虚拟化数据中心的可靠性感知的能耗管理模拟软件，软著登字第059852号，国家计算机软件著作版权

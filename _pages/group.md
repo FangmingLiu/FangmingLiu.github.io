@@ -18,15 +18,15 @@ author_profile: true
 * Quanfeng Deng
 
 other co-supervised PhD students: 
-* Fei Xu（graduated in 2014，湖北省优秀博士学位论文（Excellent Doctoral Dissertation Award of Hubei Province），优秀毕业后已在上海华东师范大学担任副教授继续从事学术科研工作）
-* Wei Deng（graduated in 2014, 获2012和2013年度研究生国家奖学金）
+* Fei Xu（湖北省优秀博士学位论文，优秀毕业后已在上海华东师范大学担任副教授继续从事学术科研工作）
+* Wei Deng（2012和2013年度研究生国家奖学金）
 * Xiaomeng Yi（Zilliz公司）
 * Weixiang Jiang（华为公司）
 * Xinchai Fei（2018年度研究生国家奖学金，华为公司）
 
 ## Master Students:
 
-* Peng Shu（获2013年度研究生国家奖学金、搜狐科研实践奖学金、2014年华中科技大学优秀硕士毕业生、湖北省优秀硕士学位论文（Excellent Master Dissertation Award of Hubei Province），华为公司）
+* Peng Shu（2013年度研究生国家奖学金、搜狐科研实践奖学金、2014年华中科技大学优秀硕士毕业生、湖北省优秀硕士学位论文，华为公司）
 * Xiaoyun Wang（华为公司）
 * Haowen Tang（Tencent, Shenzhen）
 * Bin Luo（Tencent, Shenzhen）
@@ -62,7 +62,7 @@ other co-supervised PhD students:
 * Bingzhe Liu（intern in Microsoft Research Asia under my recommendation, and continue her PhD study in University of California, Santa Barbara, USA, under my recommendation）
 * Ruolan Zou（continue her PhD study in Simon Fraser University, Canada, under my recommendation）
 * Linjie Ding（continue his Master study in UCLA, USA, under my recommendation）
-* Jie Yu
+* Jie Yu（Facebook）
 * Shengdong Lv（continue his study in University of Southern California, USA, under my recommendation）
 * Mi Hu
 * Yingnan Lian
@@ -91,7 +91,7 @@ other co-supervised PhD students:
 
 ## 大学生创新创业训练计划项目:
 
-* android平台校园约饭app项目开发（陈泽峰，徐璞逸，吴志远，秦余可，朱子涛），2019
+* Android平台校园约饭app项目开发（陈泽峰，徐璞逸，吴志远，秦余可，朱子涛），2019
 * 企业协作软件SalesGo（蔡承晏，贺杰彦，刘子康，王英嘉，王胤臻），2019
 * 基于网络爬虫技术的社交媒体用户特性及其关系分析（何天流，邓小阳，彭科银），2018-2019
 * 基于位置服务（LBS）的信息公布软件（高加楼，向绍杰，杨霖，唐浩锋，鲍继伟），2016
