@@ -6,32 +6,32 @@ author_profile: true
 
 ## Conference Keynote:
 
-* [News] In 2018, he is invited to be the Keynote Speaker in <a href="http://infocom2018.ieee-infocom.org/content/workshop-dcperf-big-data-and-cloud-performance-program">IEEE INFOCOM 2018 Workshop on Big Data and Cloud Performance (DCPerf 2018)</a>, on Monday, April 16, 08:10-09:00 am, Room: Iolani 3, Hilton Hawaiian Village, Honolulu, HI, USA, titled "Shaping the Clouds from a QoSE (Quality-Open-Smart-Green) Perspective"
-* [News] In 2018, he is invited to be the Keynote Speaker in <a href="http://fzuconf.com/ICCBB-2018/keynote.htm">IEEE ICCBB 2018 (International Conference on Cloud Computing, Big Data and Blockchain)</a>, Nov. 15, Ramada Plaza Fuzhou, Fuzhou, China, titled "Shaping the Cloud and Edge from a QoSE (Quality-Open-Smart-Green) Perspective"
+* In 2018, he is invited to be the Keynote Speaker in <a href="http://infocom2018.ieee-infocom.org/content/workshop-dcperf-big-data-and-cloud-performance-program">IEEE INFOCOM 2018 Workshop on Big Data and Cloud Performance (DCPerf 2018)</a>, on Monday, April 16, 08:10-09:00 am, Room: Iolani 3, Hilton Hawaiian Village, Honolulu, HI, USA, titled "Shaping the Clouds from a QoSE (Quality-Open-Smart-Green) Perspective"
+* In 2018, he is invited to be the Keynote Speaker in <a href="http://fzuconf.com/ICCBB-2018/keynote.htm">IEEE ICCBB 2018 (International Conference on Cloud Computing, Big Data and Blockchain)</a>, Nov. 15, Ramada Plaza Fuzhou, Fuzhou, China, titled "Shaping the Cloud and Edge from a QoSE (Quality-Open-Smart-Green) Perspective"
 
 ## Editor-in-Chief:
 
-* [News] In the light of his overall experience in the field of cloud computing, he was appointed by EAI (European Alliance for Innovation) as the Editor-in-Chief of the EAI Endorsed Transactions on Collaborative Computing (2015-2018), see our <a href="http://eudl.eu/issue/cc/1/5">Welcome Message and Inaugural Issue</a> (PDF version)
+* In the light of his overall experience in the field of cloud computing, he was appointed by EAI (European Alliance for Innovation) as the Editor-in-Chief of the EAI Endorsed Transactions on Collaborative Computing (2015-2018), see our <a href="http://eudl.eu/issue/cc/1/5">Welcome Message and Inaugural Issue</a> (PDF version)
 
 ## Associate Editor:
 
-* Journal of Computer Science and Technology (JCST), Young AE, 2019 - now
-* Frontiers of Computer Science, Young AE, 2012-2018
+* [Journal of Computer Science and Technology (JCST)](http://jcst.ict.ac.cn/EN/1000-9000/home.shtml), Young AE, 2019 - now
+* [Frontiers of Computer Science](https://www.frontiersin.org/journals/computer-science), Young AE, 2012-2018
 
-## Guest Editor
+## Guest Editor:
 
-* [Call for Papers] CCF TON Special Issue on Edge Computing and Networking (see submission date/requirements and guest editors here)
-* [Call for Papers] IEEE Systems Journal Special Issue on Green Pervasive and Ubiquitous Systems
-* [Call for Papers] IEEE Network Magazine (Impact Factor: 3.72) Special Issue on Cloud and Data Center Performance (see our Guest Editorial)
-* [Call for Papers] Tsinghua Science and Technology (清华大学学报自然科学版(英文版)) Special Issue on Cloud Computing
-* [Call for Papers] International Journal of Distributed Sensor Networks Special Issue on Smart Sensing and Mobile Computing
+* [Call for Papers] [CCF TON](https://www.springer.com/journal/42045) Special Issue on Edge Computing and Networking (see submission date/requirements and guest editors here)
+* [Call for Papers] [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003) Special Issue on Green Pervasive and Ubiquitous Systems
+* [Call for Papers] [IEEE Network Magazine](https://www.comsoc.org/publications/magazines/ieee-network) (Impact Factor: 3.72) Special Issue on Cloud and Data Center Performance (see our Guest Editorial)
+* [Call for Papers] [Tsinghua Science and Technology]（清华大学学报自然科学版（英文版））Special Issue on Cloud Computing
+* [Call for Papers] [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/home/dsn) Special Issue on Smart Sensing and Mobile Computing
 
 ## Memberships:
 
 * IEEE Senior Member
 * ACM Member
 * USENIX Member
-* CCF Senior Member
+* CCF Senior Member，中国计算机学会第十一次会员代表大会会员代表
 
 ## Special Interest Group:
 
@@ -49,7 +49,7 @@ author_profile: true
 * [Call for Papers] The 11th International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2015) (newly promoted to CCF C class), Wuhan, China, Nov. 9-12 2015, eBook and statistics.
 * [Call for Papers] IEEE LANMAN'2014 Publicity Chair (The 20th IEEE International Workshop on Local and Metropolitan Area Networks), Reno, NV, May 21-23, 2014.
 * [Call for Papers] The 9th International Conference on Green, Pervasive and Cloud Computing (GPC 2014), to be held in Wuhan, China, May 2014.
-* [Call for Papers] National Software Application Conference (NASAC 2015, 第十四届全国软件与应用学术会议), to be held in Wuhan, China, November 2015, organized by CCF and Huazhong University of Science & Technology.
+* [Call for Papers] National Software Application Conference（NASAC 2015，第十四届全国软件与应用学术会议），to be held in Wuhan, China, November 2015, organized by CCF and Huazhong University of Science & Technology.
 
 ## Conference Session Chairs:
 
@@ -66,16 +66,16 @@ author_profile: true
 
 ## Program Committee Member (TPC):
 
-* WWW 2018/2019/2020
-* ACM e-Energy 2016/2017/2018/2019/2020
-* IEEE/ACM IWQoS 2016/2017/2018/2019
-* IEEE ICDCS 2015/2016/2017/2019
+* WWW 2018 (Demo Track) /2019 (Demo Track) /2020
 * IEEE INFOCOM 2013/2014/2015/2016/2017/2018/2019 (Distinguished TPC)
 * ACM Multimedia 2014/2016/2017/2018
-* IEEE GLOBECOM 2012/2013/2014/2015/2018
+* IEEE ICDCS 2015/2016/2017/2019
+* IEEE/ACM IWQoS 2016/2017/2018/2019/2020
+* ACM e-Energy 2016/2017/2018/2019/2020
+* IEEE GLOBECOM 2012/2013/2014/2015/2018/2019/2020
 * ACAC (1st ACM China Annual Conference) 2017 SIGCOMM China Symposium
 * USENIX CoolDC 2017 (2nd Workshop on Cool Topics in Sustainable Data Centers), colocated with USENIX ASPLOS 2017
-* IEEE LANMAN 2017
+* IEEE LANMAN 2017/2018/2019/2020
 * IEEE CCNC 2017 (14th Annual IEEE Consumer Communications & Networking Conference) (Cloud Services and Networking track), co-location with CES (the world’s largest tradeshow on consumer technology, extensive press coverage and ~150,000 attendees)
 * IEEE ICNP 2014
 * IEEE IPCCC 2015 (34th IEEE -- International Performance Computing and Communications Conference)
@@ -98,14 +98,14 @@ author_profile: true
 * 国家自然科学基金委（NSFC）信息学部2018年会评专家和2016年会评专家，2018年重点基金和重点国际合作基金函评评审，以及每年度面上、青年、地区等项目函评评审
 * 国家科技部“创新人才推进计划”暨“万人计划”中青年科技创新领军人才和重点领域创新团队2018年会评专家
 * 中国博士后科学基金评审专家
+* 教育部全国博士学位论文抽检评委
 * 中国计算机学会博士学位论文评审专家、CCF优秀博士学位论文奖评审专家、CCF青年人才托举计划函评评委
-* 山东省科学技术奖评审专家
 * IEEE Journal on Selected Areas in Communications (JSAC), IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Multimedia, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Computers, IEEE Transactions on Cloud Computing, ACM Transactions on Cyber-Physical Systems, ACM Transactions on Autonomous and Adaptive Systems, ACM Computing Surveys, IEEE Transactions on Vehicular Technology, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Network and Service Management, IEEE Transasctions on Emerging Topics in Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Sustainable Computing, Transactions on Emerging Telecommunications Technologies, IEEE Wireless Communications Magazine, IEEE Network Magazine, IEEE Communications Magazine, Oxford The Computer Journal, IEEE Communications Letters, IEEE Signal Processing Letters, Peer-to-Peer Networking and Applications Journal, Elsevier Computer Networks Journal, Concurrency and Computation: Practice and Experience, SCIENCE CHINA Information Sciences
-* 湖北省科技计划评委
-* 中国计算机学会第十一次会员代表大会会员代表
+* 首届全国高校物联网应用创新大赛评委
 * 全国研究生移动终端应用设计创新大赛评审专家（第一届和第二届），教育部学位与研究生教育发展中心主办
 * 第五届中国高校SDN应用创新大赛专家委员，教育部科技发展中心
-* 教育部全国博士学位论文抽检评委
+* 湖北省科技计划评委
+* 山东省科学技术奖评审专家
 * 江西省自然科学基金项目函评评委
 
 ## External Committee Member for Doctoral Thesis:
