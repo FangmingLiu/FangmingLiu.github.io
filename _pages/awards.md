@@ -14,9 +14,9 @@ author_profile: true
 * National Program for Support of Top-Notch Young Professionals of National Program for Special Support of Eminent Professionals (国家高层次人才特殊支持计划（中组部“万人计划”）青年拔尖人才)，2014
 * MSRA StarTrack Visiting Faculty (微软亚洲研究院“铸星计划”) in Microsoft Research Asia (MSRA), Beijing, 2012-2013
 * 华中科技大学2016年度十大“科技新星奖”，2016
-* HUST Academic New Star Scholar Award (华中科技大学“学术新人奖”，全校2013年度28个院系青年教师中仅9人获得), 2013
-* HUAZHONG Scholar Honour (华中学者，特聘岗), 2014
-* Distinguished Young Scientist by ACM-Wuhan & Hubei Computer Society (ACM武汉和湖北省计算机学会联合颁发的首届学术新星奖), 2014
+* HUST Academic New Star Scholar Award (华中科技大学“学术新人奖”，全校2013年度28个院系青年教师中仅9人获得)，2013
+* HUAZHONG Scholar Honour (华中学者，特聘岗)，2014
+* Distinguished Young Scientist by ACM-Wuhan & Hubei Computer Society (ACM武汉和湖北省计算机学会联合颁发的首届学术新星奖)，2014
 * CHUTIAN Scholar (湖北省“楚天学者计划”) of computer software and theory, Hubei Province, China, 2011
 * IEEE GLOBECOM 2011 <span style="color:red;">Best Paper Award</span>, one of the 14 best papers rigorously selected from 1070 papers, in Prof. of IEEE GLOBECOM, 2011
 * IEEE IUCC 2012 <span style="color:red;">Best Paper Award</span>, in Prof. of 11th IEEE International Conference on Ubiquitous Computing and Communications (IUCC), 2012
