@@ -23,7 +23,7 @@ author_profile: true
 * [Call for Papers] [CCF TON](https://www.springer.com/journal/42045) Special Issue on Edge Computing and Networking (see submission date/requirements and guest editors here)
 * [Call for Papers] [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003) Special Issue on Green Pervasive and Ubiquitous Systems
 * [Call for Papers] [IEEE Network Magazine](https://www.comsoc.org/publications/magazines/ieee-network) (Impact Factor: 3.72) Special Issue on Cloud and Data Center Performance (see our Guest Editorial)
-* [Call for Papers] [Tsinghua Science and Technology]（清华大学学报自然科学版（英文版））Special Issue on Cloud Computing
+* [Call for Papers] Tsinghua Science and Technology（清华大学学报自然科学版（英文版））Special Issue on Cloud Computing
 * [Call for Papers] [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/home/dsn) Special Issue on Smart Sensing and Mobile Computing
 
 ## Memberships:
