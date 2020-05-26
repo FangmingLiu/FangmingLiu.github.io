@@ -48,7 +48,7 @@ author_profile: true
 * Wei Deng, **Fangming Liu\***, Hai Jin, and Dan Li, ["Leveraging Renewable Energy in Cloud Computing Datacenters: State of the Art and Future Research"](https://www.semanticscholar.org/paper/Leveraging-Renewable-Energy-in-Cloud-Computing-of-Wei-Fang-ming/3809434e87bbf1dad74303977ce4de15d9a1bf7d), in [Chinese Journal of Computers](http://english.ict.cas.cn/sp/200908/t20090819_33261.html), vol. 36, no. 3, Mar. 2013.
 * Yueming Hu, Yueju Xue, Qing Li, **Fangming Liu**, Gabriel Y. Keung, Bo Li, ["The Sink Node Placement and Performance Implication in Mobile Sensor Networks"](https://link.springer.com/article/10.1007/s11036-009-0158-5), in [ACM/Springer Journal on Mobile Networks and Applications (MONET)](http://www.springer.com/engineering/signals/journal/11036), Special Issue on New Advances in Heterogeneous Networking for Quality, Reliability, Security and Robustness, Vol. 14, No. 2, pp. 230-240, April 2009.
 * **Fangming Liu\***，Jian Guo，Jiangchuan Liu，[Software Defined Networking: Technologies and Solutions toward an Open Network Eco-System](http://www.nsfc.gov.cn/csc/20345/20350/pdf/2017/Software%20defined%20networking_Technologies%20and%20solutions%20toward%20an%20open%20network%20eco-system.pdf)，**Science Foundation in China（《中国科学基金》英文版）**，**国家自然科学基金委员会主办的综合指导性学术期刊**，Vol. 25, No. 1, 42-56, 2017.
-* 李丹，**刘方明**，郭得科，何源，黄小猛，软件定义的云数据中心网络基础理论与关键技术，电信科学，2014，30（6）：48-59.（**《2014中国计算机科学技术发展年度报告》专题报告**之一，入选中国科协组织出版的学科3-5年权威性发展报告）.
+* 李丹，**刘方明**，郭得科，何源，黄小猛，[软件定义的云数据中心网络基础理论与关键技术](https://jiahaihu.github.io/files/sdn-cloud-datacenter.pdf)，电信科学，2014，30（6）：48-59.（**《2014中国计算机科学技术发展年度报告》专题报告**之一，入选中国科协组织出版的学科3-5年权威性发展报告）.
 
 ## Conference Publications:
 
