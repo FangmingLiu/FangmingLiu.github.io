@@ -113,8 +113,8 @@ author_profile: true
 * The University of Hong Kong, 2014
 * The Chinese University of Hong Kong, 2016
 * City University of Hong Kong, 2016
-* 武汉大学, 2018
-* 中科院计算所, 2020
+* 武汉大学，2018
+* 中科院计算所，2020
 
 ## Visiting Experience:
 
