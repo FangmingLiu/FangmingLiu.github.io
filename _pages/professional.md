@@ -16,7 +16,7 @@ author_profile: true
 ## Associate Editor:
 
 * [Journal of Computer Science and Technology (JCST)](http://jcst.ict.ac.cn/EN/1000-9000/home.shtml), Young AE, 2019 - now
-* [Frontiers of Computer Science](https://www.frontiersin.org/journals/computer-science), Young AE, 2012-2018
+* Frontiers of Computer Science, Young AE, 2012-2018
 
 ## Guest Editor:
 
