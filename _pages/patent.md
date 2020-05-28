@@ -25,6 +25,7 @@ author_profile: true
 
 * <a href="https://github.com/OpenCloudNeXt/DHL">DHL</a> (dynamic hardware library): an FPGA-CPU co-design framework for accelerating NFV with DPDK, with detailed description in our ICDCS 2018 paper: “DHL: Enabling Flexible Software Network Functions with FPGA Acceleration”，<a href="https://mp.weixin.qq.com/s/H0d3PJU7e6N-ffKyJrqXYg">木兰开源社区首个推广项目：DHL</a>
 * <a href="https://gitee.com/opencloudnext/PostMan">PostMan</a>: an alternative approach to rapidly mitigate load imbalance for services processing small requests, with detailed description in our USENIX ATC 2019 paper: “PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing”，<a href="https://mp.weixin.qq.com/s/TVwWhjEJ4VIPEUHPe84Eew">近距离了解木兰开源社区项目：PostMan</a>
+* <a href="https://github.com/openstack/tricircle">Tricircle</a>: an official <a href="https://governance.openstack.org/tc/reference/projects/">OpenStack</a> project for networking automation across Neutron servers in multi-region OpenStack clouds, <a href="https://www.stackalytics.com/?module=tricircle-group&metric=loc&company=hust">see our contribution statistics</a>
 
 ## 国家计算机软件著作版权:
 
