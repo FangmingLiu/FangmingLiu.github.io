@@ -22,7 +22,7 @@ other co-supervised PhD students:
 * Wei Deng（2012和2013年度研究生国家奖学金）
 * Xiaomeng Yi（Zilliz公司）
 * Weixiang Jiang（华为公司）
-* Xinchai Fei（2018年度研究生国家奖学金，华为公司）
+* Xincai Fei（2018年度研究生国家奖学金，华为公司）
 
 ## Master Students:
 
