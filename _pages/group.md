@@ -34,7 +34,7 @@ other co-supervised PhD students:
 * Guangyuan Wu（Tencent, Shenzhen）
 * Tao Wang（2016年度研究生国家奖学金）
 * Bo Huang（百度公司）
-* Yanqi Jin
+* Yanqi Jin（招商银行股份有限公司武汉分行）
 * Yikai Xiao（今日头条）
 * Xiaoyao Li（Intel 公司）
 * Xiuxiu Wang（中国电信）
