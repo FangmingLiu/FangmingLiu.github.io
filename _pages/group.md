@@ -8,7 +8,7 @@ author_profile: true
 
 * Jian Guo（GPA: 88.28/100, Rank: 9/342, 连续两次获得2012和2013年度研究生国家奖学金，以及搜狐科研实践奖学金，优秀毕业后以高技术级别被华为公司聘请从事云计算产品线工作）
 * Zhi Zhou（2019年CCF优博提名、2013年Google优秀奖学金、2013年和2016年研究生国家奖学金、湖北省优秀学士学位论文、湖北省优秀硕士学位论文、搜狐科研实践奖学金，优秀毕业后已在中山大学获得教职继续从事学术科研工作）
-* Shutong Chen
+* Shutong Chen（2020年度华为奖学金）
 * Yipei Niu（2017年度研究生国家奖学金）
 * Qixia Zhang（2017年度研究生国家奖学金、2018年度华为奖学金、2019年度研究生国家奖学金）
 * Jing Wu
@@ -48,7 +48,7 @@ other co-supervised PhD students:
 * Zhuangzhuang Xu（阿里巴巴）
 * Shimin Xu（字节跳动）
 * Li Pan
-* Xinhui Zhu
+* Xinhui Zhu（2019年度知行优秀三等奖学金、2020年度校三好研究生、2020年度研究生国家奖学金、2020年度华为奖学金）
 * Jian Chen
 * Xinyu Wan
 * Wanquan Xu
