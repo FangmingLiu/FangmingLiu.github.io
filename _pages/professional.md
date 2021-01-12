@@ -26,44 +26,6 @@ author_profile: true
 * [Call for Papers] [Tsinghua Science and Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5971803)（清华大学学报自然科学版（英文版））Special Issue on Cloud Computing
 * [Call for Papers] [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/home/dsn) Special Issue on Smart Sensing and Mobile Computing
 
-## Memberships:
-
-* IEEE Senior Member
-* ACM Member
-* USENIX Member
-* CCF Senior Member，中国计算机学会第十一次会员代表大会会员代表
-
-## Special Interest Group:
-
-* ACM China SIGCOMM Chapter committee
-
-## Conference Program Chair/Co-Chair or Steering Committee or other organizing committee:
-
-* [CFP] ECN 2018 (The 1st International Workshop on Edge Computing and Networking, co-located with ICCCN 2018) Steering Committee, Hangzhou, China, July 30, 2018.
-* [CFP] IEEE ICNP 2018 Publicity Co-Chair, Cambridge, UK, September 24-27, 2018.
-* [CFP] IEEE ICNP 2017 Publicity Co-Chair, Toronto, 2017.
-* [CFP] IEEE/ACM IWQoS 2017 Publicity Co-Chair, Spain, 2017.
-* [CFP] INFOCOM 2017 SmartCity Workshop TPC Co-Chair, USA, 2017.
-* [CFP] ICNP 2016 Poster/Demo Co-Chair, Singapore, Nov. 8-11 2016.
-* [CFP] ACAC (1st ACM China Annual Conference) 2017 SIGCOMM China Symposium Publicity Co-Chair, Shanghai, China, May. 12-14 2017.
-* [Call for Papers] The 11th International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2015) (newly promoted to CCF C class), Wuhan, China, Nov. 9-12 2015, eBook and statistics.
-* [Call for Papers] IEEE LANMAN'2014 Publicity Chair (The 20th IEEE International Workshop on Local and Metropolitan Area Networks), Reno, NV, May 21-23, 2014.
-* [Call for Papers] The 9th International Conference on Green, Pervasive and Cloud Computing (GPC 2014), to be held in Wuhan, China, May 2014.
-* [Call for Papers] National Software Application Conference（NASAC 2015，第十四届全国软件与应用学术会议），to be held in Wuhan, China, November 2015, organized by CCF and Huazhong University of Science & Technology.
-
-## Conference Session Chairs:
-
-* ICDCS'2016 Session Chair of "Energy Management and Green Distributed Computing"
-* INFOCOM'2015 Session Chair of "Resource Provisioning in Cloud Computing"
-* INFOCOM'2014 Session Chairs of "Cloud computing 2" and "Cloud computing 5"
-* INFOCOM'2013 Session Chair of "Resource allocation in cloud computing 2"
-* INFOCOM'2013 Session Chair of "MC - Data center networking 2"
-
-## Panelist:
-
-* IEEE Computer Communications Workshop (CCW) panel on "mobile computing”, Philadelphia, USA, Nov. 6-7, 2014. Established in 1986, IEEE CCW is the annual flagship workshop of the Technical Committee on Computer Communications (TCCC) of the IEEE Communications Society. CCW is a single-track event composed of panels and sessions focused on specific "hot topics" in networking and computer communications.
-* The International Conference on Cloud Computing and Big Data (CCBD2014) panel on "The future trend of Big Data", which is a cross-area international forum on cloud computing and big data, to be held on November 12-14, 2014 at Wuhan University, Wuhan, China. CCBD2014 discusses the state-of-the-art, challenges, and trend of Big Data. Relevant topics include information retrieval/data mining, database system, data center, social network, software engineering and programming models,Big Data application.
-
 ## Program Committee Member (TPC):
 
 * WWW 2018 (Demo Track) / 2019 (Demo Track) / 2020 (Main Track) / 2021 (Systems and Infrastructure Track)
@@ -92,6 +54,33 @@ author_profile: true
 * The 6th International Conference on Frontier of Computer Science and Technology (FCST-11)
 * The 8th IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS'12)
 
+## Conference Program Chair/Co-Chair or Steering Committee or other organizing committee:
+
+* [CFP] ECN 2018 (The 1st International Workshop on Edge Computing and Networking, co-located with ICCCN 2018) Steering Committee, Hangzhou, China, July 30, 2018.
+* [CFP] IEEE ICNP 2018 Publicity Co-Chair, Cambridge, UK, September 24-27, 2018.
+* [CFP] IEEE ICNP 2017 Publicity Co-Chair, Toronto, 2017.
+* [CFP] IEEE/ACM IWQoS 2017 Publicity Co-Chair, Spain, 2017.
+* [CFP] INFOCOM 2017 SmartCity Workshop TPC Co-Chair, USA, 2017.
+* [CFP] ICNP 2016 Poster/Demo Co-Chair, Singapore, Nov. 8-11 2016.
+* [CFP] ACAC (1st ACM China Annual Conference) 2017 SIGCOMM China Symposium Publicity Co-Chair, Shanghai, China, May. 12-14 2017.
+* [Call for Papers] The 11th International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2015) (newly promoted to CCF C class), Wuhan, China, Nov. 9-12 2015, eBook and statistics.
+* [Call for Papers] IEEE LANMAN'2014 Publicity Chair (The 20th IEEE International Workshop on Local and Metropolitan Area Networks), Reno, NV, May 21-23, 2014.
+* [Call for Papers] The 9th International Conference on Green, Pervasive and Cloud Computing (GPC 2014), to be held in Wuhan, China, May 2014.
+* [Call for Papers] National Software Application Conference（NASAC 2015，第十四届全国软件与应用学术会议），to be held in Wuhan, China, November 2015, organized by CCF and Huazhong University of Science & Technology.
+
+## Conference Session Chairs:
+
+* ICDCS'2016 Session Chair of "Energy Management and Green Distributed Computing"
+* INFOCOM'2015 Session Chair of "Resource Provisioning in Cloud Computing"
+* INFOCOM'2014 Session Chairs of "Cloud computing 2" and "Cloud computing 5"
+* INFOCOM'2013 Session Chair of "Resource allocation in cloud computing 2"
+* INFOCOM'2013 Session Chair of "MC - Data center networking 2"
+
+## Panelist:
+
+* IEEE Computer Communications Workshop (CCW) panel on "mobile computing”, Philadelphia, USA, Nov. 6-7, 2014. Established in 1986, IEEE CCW is the annual flagship workshop of the Technical Committee on Computer Communications (TCCC) of the IEEE Communications Society. CCW is a single-track event composed of panels and sessions focused on specific "hot topics" in networking and computer communications.
+* The International Conference on Cloud Computing and Big Data (CCBD2014) panel on "The future trend of Big Data", which is a cross-area international forum on cloud computing and big data, to be held on November 12-14, 2014 at Wuhan University, Wuhan, China. CCBD2014 discusses the state-of-the-art, challenges, and trend of Big Data. Relevant topics include information retrieval/data mining, database system, data center, social network, software engineering and programming models,Big Data application.
+
 ## Invited Reviewer for Grants, Papers, and Awards:
 
 * Hong Kong RGC (Research Grants Council) external reviewer of General Research Fund (GRF) and Early Career Scheme (ECS)
@@ -107,6 +96,17 @@ author_profile: true
 * 湖北省科技计划评委
 * 山东省科学技术奖评审专家
 * 江西省自然科学基金项目函评评委
+
+## Memberships:
+
+* IEEE Senior Member
+* ACM Member
+* USENIX Member
+* CCF Senior Member，中国计算机学会第十一次会员代表大会会员代表
+
+## Special Interest Group:
+
+* ACM China SIGCOMM Chapter committee
 
 ## External Committee Member for Doctoral Thesis:
 
