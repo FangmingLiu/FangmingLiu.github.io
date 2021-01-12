@@ -107,6 +107,7 @@ author_profile: true
 ## Special Interest Group:
 
 * ACM China SIGCOMM Chapter committee
+* [ACM SIGEnergy](https://energy.acm.org/) community (Energy Systems and Informatics)
 
 ## External Committee Member for Doctoral Thesis:
 
