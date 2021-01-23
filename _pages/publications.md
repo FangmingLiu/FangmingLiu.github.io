@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
-* Fei Xu, Yiling Qin, Li Chen, Zhi Zhou, **Fangming Liu**, "λDNN: Achieving Predictable Distributed DNN Training with Serverless Architectures", to appear in IEEE Transactions on Computers, 2021.
+* Fei Xu, Yiling Qin, Li Chen, Zhi Zhou, **Fangming Liu**, ["λDNN: Achieving Predictable Distributed DNN Training with Serverless Architectures"](https://fangmingliu.github.io/files/lambdaDNN.pdf), to appear in IEEE Transactions on Computers, 2021.
 * Xincai Fei, **Fangming Liu\***, Qixia Zhang, Hai Jin, and Hongxin Hu, [“Paving the Way for NFV Acceleration: A Taxonomy, Survey and Future Directions”](https://fangmingliu.github.io/files/CSUR20-NFV.pdf), [ACM Computing Surveys](https://dl.acm.org/journal/csur), 2020.
 * **刘方明**, 姜炜祥. [绿色数据中心“新基建”如何更“Cool”](https://dl.ccf.org.cn/institude/institudeDetail?id=4971336111851520&_ack=1), CCCF (中国计算机学会通讯), 2020年第6期.
 * Qiong Chen, Zimu Zheng, Chuang Hu, Dan Wang, and **Fangming Liu\***, ["On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation"](https://fangmingliu.github.io/files/TPDS20-Edge-ML.pdf), [IEEE Transactions on Parallel and Distributed Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71), Vol. 31, No. 6, Jun. 2020.
