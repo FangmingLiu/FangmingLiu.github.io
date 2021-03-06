@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
-* Bin Gao, Zhi Zhou, **Fangming Liu\***, Fei Xu, and Bo Li, “An Online Framework for Joint Network Selection and Service Placement in Mobile Edge Computing”, to appear in IEEE Transactions on Mobile Computing, 2021.
+* Bin Gao, Zhi Zhou, **Fangming Liu\***, Fei Xu, and Bo Li, [“An Online Framework for Joint Network Selection and Service Placement in Mobile Edge Computing”](https://fangmingliu.github.io/files/tmc21-edge.pdf), to appear in IEEE Transactions on Mobile Computing, 2021.
 * Fei Xu, Yiling Qin, Li Chen, Zhi Zhou, **Fangming Liu**, ["λDNN: Achieving Predictable Distributed DNN Training with Serverless Architectures"](https://fangmingliu.github.io/files/lambdaDNN.pdf), to appear in IEEE Transactions on Computers, 2021.
 * Xincai Fei, **Fangming Liu\***, Qixia Zhang, Hai Jin, and Hongxin Hu, [“Paving the Way for NFV Acceleration: A Taxonomy, Survey and Future Directions”](https://fangmingliu.github.io/files/CSUR20-NFV.pdf), [ACM Computing Surveys](https://dl.acm.org/journal/csur), 2020.
 * **刘方明**, 姜炜祥. [绿色数据中心“新基建”如何更“Cool”](https://dl.ccf.org.cn/institude/institudeDetail?id=4971336111851520&_ack=1), CCCF (中国计算机学会通讯), 2020年第6期.
