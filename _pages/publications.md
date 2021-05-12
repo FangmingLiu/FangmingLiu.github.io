@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
-* Qixia Zhang, **Fangming Liu\***, and Chaobing Zeng, “Online Adaptive Interference-aware VNF Deployment and Migration for 5G Network Slice”, to appear in IEEE/ACM Transactions on Networking (TON), 2021.
+* Qixia Zhang, **Fangming Liu\***, and Chaobing Zeng, [“Online Adaptive Interference-aware VNF Deployment and Migration for 5G Network Slice”](https://fangmingliu.github.io/files/TON21-NFV-5G.pdf), to appear in IEEE/ACM Transactions on Networking (TON), 2021.
 * Bin Gao, Zhi Zhou, **Fangming Liu\***, Fei Xu, and Bo Li, [“An Online Framework for Joint Network Selection and Service Placement in Mobile Edge Computing”](https://fangmingliu.github.io/files/tmc21-edge.pdf), to appear in IEEE Transactions on Mobile Computing, 2021.
 * Fei Xu, Yiling Qin, Li Chen, Zhi Zhou, **Fangming Liu**, ["λDNN: Achieving Predictable Distributed DNN Training with Serverless Architectures"](https://fangmingliu.github.io/files/lambdaDNN.pdf), to appear in IEEE Transactions on Computers, 2021.
 * Xincai Fei, **Fangming Liu\***, Qixia Zhang, Hai Jin, and Hongxin Hu, [“Paving the Way for NFV Acceleration: A Taxonomy, Survey and Future Directions”](https://fangmingliu.github.io/files/CSUR20-NFV.pdf), [ACM Computing Surveys](https://dl.acm.org/journal/csur), 2020.
