@@ -84,6 +84,7 @@ author_profile: true
 ## Invited Reviewer for Grants, Papers, and Awards:
 
 * Hong Kong RGC (Research Grants Council) external reviewer of General Research Fund (GRF) and Early Career Scheme (ECS)
+* Italian Ministry for University and Research (MUR) PRIN 2020 research projects external reviewer/expert
 * 国家自然科学基金委（NSFC）信息学部2018年会评专家和2016年会评专家，2018年重点基金和重点国际合作基金函评评审，以及每年度面上、青年、地区等项目函评评审
 * 国家科技部“创新人才推进计划”暨“万人计划”中青年科技创新领军人才和重点领域创新团队2018年会评专家
 * 中国博士后科学基金评审专家
