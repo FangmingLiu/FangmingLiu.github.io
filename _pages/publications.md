@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
-* Yipei Niu, Panpan Jin, Jian Guo, Yikai Xiao, Rong Shi, **Fangming Liu\***, Chen Qian, and Yang Wang, “PostMan: Rapidly Mitigating Bursty Traffic via On-demand Offloading of Packet Processing”, to appear in IEEE Transactions on Parallel and Distributed Systems, 2021.
+* Yipei Niu, Panpan Jin, Jian Guo, Yikai Xiao, Rong Shi, **Fangming Liu\***, Chen Qian, and Yang Wang, [“PostMan: Rapidly Mitigating Bursty Traffic via On-demand Offloading of Packet Processing”](https://fangmingliu.github.io/files/PostMan-TPDS21.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2021.
 * Shutong Chen, Lei Jiao, **Fangming Liu\***, and Lin Wang, [“EdgeDR: An Online Mechanism Design for Demand Response in Edge Clouds”](https://fangmingliu.github.io/files/EdgeDR-TPDS21.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2021.
 * Qixia Zhang, **Fangming Liu\***, and Chaobing Zeng, [“Online Adaptive Interference-aware VNF Deployment and Migration for 5G Network Slice”](https://fangmingliu.github.io/files/TON21-NFV-5G.pdf), to appear in IEEE/ACM Transactions on Networking (TON), 2021.
 * Bin Gao, Zhi Zhou, **Fangming Liu\***, Fei Xu, and Bo Li, [“An Online Framework for Joint Network Selection and Service Placement in Mobile Edge Computing”](https://fangmingliu.github.io/files/tmc21-edge.pdf), to appear in IEEE Transactions on Mobile Computing, 2021.
