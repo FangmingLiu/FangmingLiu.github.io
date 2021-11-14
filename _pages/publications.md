@@ -6,6 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
+* 徐子晨，李超，**刘方明**，陈全，冷静文，郑文立，杜子东，沈立，王玉皞，[碳中和体系结构关键技术与系统研究发展报告](https://dl.ccf.org.cn/reading.html?id=5693668603856896)，[**《CCF中国计算机科学技术发展报告》**](https://dl.ccf.org.cn/article/detail.html?_ack=1&id=5693668603856896)，2020-2021.
 * Yipei Niu, Panpan Jin, Jian Guo, Yikai Xiao, Rong Shi, **Fangming Liu\***, Chen Qian, and Yang Wang, [“PostMan: Rapidly Mitigating Bursty Traffic via On-demand Offloading of Packet Processing”](https://fangmingliu.github.io/files/PostMan-TPDS21.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2021.
 * Shutong Chen, Lei Jiao, **Fangming Liu\***, and Lin Wang, [“EdgeDR: An Online Mechanism Design for Demand Response in Edge Clouds”](https://fangmingliu.github.io/files/EdgeDR-TPDS21.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2021.
 * Qixia Zhang, **Fangming Liu\***, and Chaobing Zeng, [“Online Adaptive Interference-aware VNF Deployment and Migration for 5G Network Slice”](https://fangmingliu.github.io/files/TON21-NFV-5G.pdf), to appear in IEEE/ACM Transactions on Networking (TON), 2021.
@@ -58,6 +59,7 @@ author_profile: true
 
 ## Conference Publications:
 
+* Qiangyu Pei, Shutong Chen, Qixia Zhang, Xinhui Zhu, **Fangming Liu\***, Ziyang Jia, Yishuo Wang, Yongjie Yuan, “CoolEdge: Hotspot-relievable Warm Water Cooling for Energy-efficient Edge Datacenters”, in Proc. of ACM [**ASPLOS**](https://asplos-conference.org/), **80 out of 397 submissions (acceptance ratio: 20%)**, Feb 28-March 4, 2022, Lausanne, Switzerland.
 * Xinhui Zhu, Weixiang Jiang, **Fangming Liu\***, Qixia Zhang, Li Pan, Qiong Chen, and Ziyang Jia, ["Heat to Power: Thermal Energy Harvesting and Recycling for Warm Water-Cooled Datacenters"](https://fangmingliu.github.io/files/H2P-camera-ready.pdf), in Proc. of ACM/IEEE [**ISCA**](https://iscaconf.org/isca2020/), **77 out of 421 submissions (acceptance ratio: 18%)**, May 30 - June 3, 2020, Valencia, Spain. [(Video Presentation)](https://fangmingliu.github.io/files/ISCA20-H2P-v2.mp4)
 * Panpan Jin, Xincai Fei, Qixia Zhang, **Fangming Liu\***, and Bo Li, ["Latency-aware VNF Chain Deployment with Efficient Resource Reuse at Network Edge"](https://fangmingliu.github.io/files/INFOCOM20-Edge-NFV.pdf), in Proc. of IEEE [**INFOCOM**](https://infocom2020.ieee-infocom.org), **acceptance ratio: 19.8%**, 6-9 July 2020, Online Conference.
 * Miao Li, Qixia Zhang, and **Fangming Liu\***, ["Finedge: A Dynamic Cost-efficient Edge Resource Management Platform for NFV Network"](https://fangmingliu.github.io/files/IWQoS20-EdgeNFV.pdf), in Proc. of IEEE/ACM [**IWQoS**](https://iwqos2020.ieee-iwqos.org), 15-17 June, 2020, Hangzhou, China.
