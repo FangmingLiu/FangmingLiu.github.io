@@ -129,5 +129,5 @@ author_profile: true
 
 ## Books:
 
-* **刘方明**，李林锋，王磊，[华为Serverless核心技术与实践](https://item.jd.com/12995563.html)，电子工业出版社，2021年11月1日
+* **刘方明**，李林锋，王磊，[华为Serverless核心技术与实践](https://item.jd.com/12995563.html)，电子工业出版社，2021年11月1日.
 * **Fangming Liu**, [Large-Scale Peer-Assisted Online Hosting, Distribution and Video Streaming Systems: Design, Modeling and Practice](https://www.morebooks.de/store/gb/book/large-scale-peer-assisted-online-hosting,-distribution-and-video-streaming-systems/isbn/978-3-330-00958-5), LAP LAMBERT Academic Publishing, April 2019.
