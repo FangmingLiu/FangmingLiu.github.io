@@ -108,6 +108,7 @@ author_profile: true
 * ACM Member
 * USENIX Member
 * CCF Senior Member，中国计算机学会第十一次会员代表大会会员代表
+* “科创中国”未来网络专业科技服务团特聘专家
 
 ## Special Interest Group:
 
