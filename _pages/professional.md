@@ -9,6 +9,10 @@ author_profile: true
 * In 2018, he is invited to be the Keynote Speaker in <a href="http://infocom2018.ieee-infocom.org/content/workshop-dcperf-big-data-and-cloud-performance-program">IEEE INFOCOM 2018 Workshop on Big Data and Cloud Performance (DCPerf 2018)</a>, on Monday, April 16, 08:10-09:00 am, Room: Iolani 3, Hilton Hawaiian Village, Honolulu, HI, USA, titled "Shaping the Clouds from a QoSE (Quality-Open-Smart-Green) Perspective"
 * In 2018, he is invited to be the Keynote Speaker in <a href="http://fzuconf.com/ICCBB-2018/keynote.htm">IEEE ICCBB 2018 (International Conference on Cloud Computing, Big Data and Blockchain)</a>, Nov. 15, Ramada Plaza Fuzhou, Fuzhou, China, titled "Shaping the Cloud and Edge from a QoSE (Quality-Open-Smart-Green) Perspective"
 
+## Leading Editor:
+
+* Journal of Computer Science and Technology (JCST), Computer Architecture and Systems Area, 2022 - 2025
+
 ## Editor-in-Chief:
 
 * In the light of his overall experience in the field of cloud computing, he was appointed by EAI (European Alliance for Innovation) as the Editor-in-Chief of the EAI Endorsed Transactions on Collaborative Computing (2015-2018), see our <a href="http://eudl.eu/issue/cc/1/5">Welcome Message and Inaugural Issue</a> (PDF version)
