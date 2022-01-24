@@ -11,7 +11,7 @@ author_profile: true
 
 ## Leading Editor:
 
-* Journal of Computer Science and Technology (JCST), Computer Architecture and Systems Area, 2022 - 2025
+* [Journal of Computer Science and Technology](https://jcst.ict.ac.cn/EN/column/column101.shtml) (JCST, [CCF高质量科技期刊T1类](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNTI0OA==&mid=2247531573&idx=5&sn=d2c7f50dc4d5154dab6c01583da32524&chksm=c031abdaf74622ccb75cc1359f15a39e3f097ebedd14f2827e2ddb8c9476ac23d1b822487d91&mpshare=1&scene=23&srcid=0124OD9X96IZzZbi3aYJNfAP&sharer_sharetime=1643041553292&sharer_shareid=314480206a895d4e5ac4cc26457786f1%23rd)), Computer Architecture and Systems Area, 2022 - 2025
 
 ## Editor-in-Chief:
 
@@ -36,7 +36,7 @@ author_profile: true
 * IEEE INFOCOM 2013/2014/2015/2016/2017/2018/2019 (Distinguished TPC)/2021/2022
 * ACM Multimedia 2014/2016/2017/2018
 * IEEE ICDCS 2015/2016/2017/2019/2022
-* IEEE/ACM IWQoS 2016/2017/2018/2019/2020/2021
+* IEEE/ACM IWQoS 2016/2017/2018/2019/2020/2021/2022
 * ACM e-Energy 2016/2017/2018/2019/2020/2021
 * IEEE ICCCN 2022
 * IEEE GLOBECOM 2012/2013/2014/2015/2018/2019/2020/2022
