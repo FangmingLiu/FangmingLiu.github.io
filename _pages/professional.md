@@ -19,6 +19,7 @@ author_profile: true
 
 ## Associate Editor:
 
+* Frontiers in High Performance Computing - High Performance Big Data Systems, Review Editor, 2022-now
 * [Journal of Computer Science and Technology (JCST)](http://jcst.ict.ac.cn/EN/1000-9000/home.shtml), Young AE, 2019 - now
 * Frontiers of Computer Science, Young AE, 2012-2018
 
