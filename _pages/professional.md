@@ -36,6 +36,7 @@ author_profile: true
 * WWW 2018 (Demo Track) / 2019 (Demo Track) / 2020 (Main Track) / 2021 (Systems and Infrastructure Track) / 2022 (Scalability and Infrastructure Track)
 * IEEE INFOCOM 2013/2014/2015/2016/2017/2018/2019 (Distinguished TPC)/2021/2022 (Distinguished TPC)/2023
 * ACM Multimedia 2014/2016/2017/2018
+* ACM International Conference on Web Search and Data Mining (WSDM 2023)
 * IEEE ICDCS 2015/2016/2017/2019/2022
 * IEEE/ACM IWQoS 2016/2017/2018/2019/2020/2021/2022
 * ACM e-Energy 2016/2017/2018/2019/2020/2021
