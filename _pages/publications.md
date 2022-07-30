@@ -6,6 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
+* Jing Wu, Lin Wang, Qiangyu Pei, Xingqi Cui, **Fangming Liu\***, and Tingting Yang, ["HiTDL: High-Throughput Deep Learning Inference at the Hybrid Mobile Edge"](https://fangmingliu.github.io/files/hitdl-full-paper-jing.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2022.
 * **Fangming Liu**, Jian Chen, Qixia Zhang, and Bo Li, [“Online MEC Offloading for V2V Networks”](https://fangmingliu.github.io/files/TMC22-V2V-MEC.pdf), to appear in IEEE Transactions on Mobile Computing, 2022.
 * 徐子晨，李超，**刘方明**，陈全，冷静文，郑文立，杜子东，沈立，王玉皞，[碳中和体系结构关键技术与系统研究发展报告](https://dl.ccf.org.cn/reading.html?id=5693668603856896)，[**《CCF中国计算机科学技术发展报告》**](https://dl.ccf.org.cn/article/detail.html?_ack=1&id=5693668603856896)，2020-2021.
 * Yipei Niu, Panpan Jin, Jian Guo, Yikai Xiao, Rong Shi, **Fangming Liu\***, Chen Qian, and Yang Wang, [“PostMan: Rapidly Mitigating Bursty Traffic via On-demand Offloading of Packet Processing”](https://fangmingliu.github.io/files/PostMan-TPDS21.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2021.
