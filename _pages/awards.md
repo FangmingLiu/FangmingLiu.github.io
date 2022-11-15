@@ -4,8 +4,8 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
-* 华为开发者大赛代码上太空赛道：冠军奖（基于神经网络模型动态切分的星地协同遥感图像分析系统CoStar），2022
-* 华为开发者大赛代码上太空赛道：优胜奖（面向星地协同的动态调度系统），2022
+* [华为开发者大赛代码上太空赛道](https://competition.huaweicloud.com/information/1000041709/html8)：**<span style="color:red;">冠军奖</span>（基于神经网络模型动态切分的星地协同遥感图像分析系统CoStar）**，2022
+* [华为开发者大赛代码上太空赛道](https://competition.huaweicloud.com/information/1000041709/html8)：**优胜奖（面向星地协同的动态调度系统）**，2022
 * 霍英东教育基金会高等院校青年科学奖，2021
 * 全球前2%顶尖科学家榜单（World’s Top2% Scientists）“终身科学影响力排行榜”（美国斯坦福大学联合爱思唯尔发布）
 * CCF分布式计算与系统专委会“杰出青年学者”，2021
