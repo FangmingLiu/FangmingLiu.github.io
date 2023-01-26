@@ -79,6 +79,7 @@ author_profile: true
 
 ## Conference Session Chairs:
 
+* 全国开放式分布与并行计算学术年会（DPCS2022）专题论坛主席
 * ICDCS'2016 Session Chair of "Energy Management and Green Distributed Computing"
 * INFOCOM'2015 Session Chair of "Resource Provisioning in Cloud Computing"
 * INFOCOM'2014 Session Chairs of "Cloud computing 2" and "Cloud computing 5"
