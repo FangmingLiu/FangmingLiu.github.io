@@ -6,6 +6,7 @@ author_profile: true
 
 ## US Patent:
 
+* Container-based Network Functions Virtualization Platform, US 11,563,689 B2, 2023. Jan. 24
 * Non-Intrusive Fine-Grained Power Monitoring of Datacenters, US 10,552,761B2, 2020. Feb. 4
 * FPGA-based Method for Network Function Accelerating and System Thereof, US20190213029, 2019. Jul. 11
 
