@@ -4,6 +4,7 @@ title: "Research Grants"
 author_profile: true
 ---
 
+* National Key R&D Program of China (国家重点研发计划), No. 2022YFB4501703, 面向微小型数据中心的系统软件 (先进计算与新兴软件专项), 课题三：服务器无感框架和协同调度, 课题负责人, 03/2023 – 02/2026.
 * National Science Fund for Excellent Young Scholars（国家优秀青年科学基金获得者），National Natural Science Foundation of China（NSFC）, No.61722206, "Network Resource Sharing and Management"（网络资源共享与管理）, Principal Investigator, 01/2018 – 12/2020（已结题）.
 * NSFC-DFG Joint Research Project（国家自然科学基金委员会与德国科学基金会国际合作研究项目），National Natural Science Foundation of China（NSFC） and Deutsche Forschungsgemeinschaft（DFG）, No.61761136014, "SmartEdge: Concepts and Methods for Edge Computing"（边缘计算基础理论与关键技术），Principal Investigator（Fangming Liu is the PI in China, and Prof. Max Mühlhäuser is the PI in Germany who is a member of ACATECH（德国科学与工程院院士）），01/2018 – 12/2020（已结题）.
 * National Key Research and Development（R&D） Program Project（国家重点研发计划项目），No.2017YFB1001700, “Key Technologies and Systems of Highly Energy-Efficient Cloud Datacenters"（高效能云计算数据中心关键技术与装备），in collaboration with Inspur Company, 课题负责人，2017 – 2021.
