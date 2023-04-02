@@ -140,4 +140,5 @@ author_profile: true
 
 ## Technical Report:
 
-* Qiangyu Pei, Shutong Chen, Yongjie Yuan, Qixia Zhang, Xinhui Zhu, Ziyang Jia, **Fangming Liu\***, ["Cooling as You Wish: Component-Level Cooling for Heterogeneous Edge Datacenters"](https://fangmingliu.github.io/files/TPDS23-CoolEdge-TechnicalReport.pdf)
+* Qiangyu Pei, Shutong Chen, Yongjie Yuan, Qixia Zhang, Xinhui Zhu, Ziyang Jia, **Fangming Liu\***, ["Cooling as You Wish: Component-Level Cooling for Heterogeneous Edge Datacenters"](https://fangmingliu.github.io/files/TPDS23-CoolEdge-TechnicalReport.pdf).
+* Fangming Liu*, Qiangyu Pei, Shutong Chen, Yongjie Yuan, Lin Wang, Max Mühlhäuser, ["When the Metaverse Meets Carbon Neutrality: Ongoing Efforts and Directions"](https://fangmingliu.github.io/files/arxiv-metaverse.pdf), arXiv preprint arXiv:2301.10235, 2023.
