@@ -138,7 +138,7 @@ author_profile: true
 * **刘方明**，李林锋，王磊，[华为Serverless核心技术与实践](https://item.jd.com/12995563.html)，电子工业出版社，2021年11月1日.
 * **Fangming Liu**, [Large-Scale Peer-Assisted Online Hosting, Distribution and Video Streaming Systems: Design, Modeling and Practice](https://www.morebooks.de/store/gb/book/large-scale-peer-assisted-online-hosting,-distribution-and-video-streaming-systems/isbn/978-3-330-00958-5), LAP LAMBERT Academic Publishing, April 2019.
 
-## Technical Report:
+## Technical Reports:
 
 * Qiangyu Pei, Shutong Chen, Yongjie Yuan, Qixia Zhang, Xinhui Zhu, Ziyang Jia, **Fangming Liu\***, ["Cooling as You Wish: Component-Level Cooling for Heterogeneous Edge Datacenters"](https://fangmingliu.github.io/files/TPDS23-CoolEdge-TechnicalReport.pdf).
-* Fangming Liu*, Qiangyu Pei, Shutong Chen, Yongjie Yuan, Lin Wang, Max Mühlhäuser, ["When the Metaverse Meets Carbon Neutrality: Ongoing Efforts and Directions"](https://fangmingliu.github.io/files/arxiv-metaverse.pdf), arXiv preprint arXiv:2301.10235, 2023.
+* **Fangming Liu\***, Qiangyu Pei, Shutong Chen, Yongjie Yuan, Lin Wang, Max Mühlhäuser, ["When the Metaverse Meets Carbon Neutrality: Ongoing Efforts and Directions"](https://fangmingliu.github.io/files/arxiv-metaverse.pdf), arXiv preprint arXiv:2301.10235, 2023.
