@@ -62,6 +62,7 @@ author_profile: true
 
 ## Conference Publications:
 
+* Ruitao Shang, Fei Xu, Zhuoyan Bai, Li Chen, Zhi Zhou, and **Fangming Liu**, [“spotDNN: Provisioning Spot Instances for Predictable Distributed DNN Training in the Cloud”](https://fangmingliu.github.io/files/iwqos2023.pdf), in Proc. of IEEE/ACM IWQoS, 19–21 June, 2023, Orlando, FL, USA.
 * Li Pan, Lin Wang, Shutong Chen, and **Fangming Liu\***, [“Retention-aware Container Caching for Serverless Edge Computing”](https://fangmingliu.github.io/files/INFOCOM22-serverless-edge.pdf), in Proc. of IEEE [**INFOCOM**](https://infocom2022.ieee-infocom.org/), **acceptance ratio: 19.9%**, 2-5 May 2022, Online Conference. (along with [technical report](https://fangmingliu.github.io/files/INFOCOM22-O-RDC-TechnicalReport.pdf))
 * Zhaojie Wen, Yishuo Wang, and **Fangming Liu\***, [“StepConf: SLO-Aware Dynamic Resource Configuration for Serverless Function Workflows”](https://fangmingliu.github.io/files/INFOCOM22-serverless.pdf), in Proc. of IEEE [**INFOCOM**](https://infocom2022.ieee-infocom.org/), **acceptance ratio: 19.9%**, 2-5 May 2022, Online Conference.
 * Shutong Chen, Lin Wang, and **Fangming Liu\***, [“Optimal Admission Control Mechanism Design for Time-Sensitive Services in Edge Computing”](https://fangmingliu.github.io/files/INFOCOM22-edge.pdf), in Proc. of IEEE [**INFOCOM**](https://infocom2022.ieee-infocom.org/), **acceptance ratio: 19.9%**, 2-5 May 2022, Online Conference. (along with [technical report](https://fangmingliu.github.io/files/INFOCOM22-O2A-TechnicalReport.pdf))
