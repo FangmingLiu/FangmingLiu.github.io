@@ -10,7 +10,7 @@ author_profile: true
 * 霍英东教育基金会高等院校青年科学奖，2021
 * 全球前2%顶尖科学家榜单（World’s Top2% Scientists）“终身科学影响力排行榜”（美国斯坦福大学联合爱思唯尔发布）
 * CCF分布式计算与系统专委会“杰出青年学者”，2021
-* <span style="color:red;">爱思唯尔中国高被引学者</span>，2020-2021
+* <span style="color:red;">爱思唯尔中国高被引学者</span>，2020-2022
 * Second Class Prize of National Natural Science Award in China（<span style="color:red;">国家自然科学二等奖</span>）：面向多租户资源竞争的云计算基础理论与核心方法，2020
 * IEEE/ACM IWQoS 2019, <span style="color:red;">Best Paper Award</span>
 * IDC中国和曙光公司联合颁发的“绿色计算创新应用奖”，2019
