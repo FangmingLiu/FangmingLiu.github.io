@@ -62,7 +62,7 @@ author_profile: true
 
 ## Conference Publications:
 
-* Qiangyu Pei, Yongjie Yuan, Haichuan Hu, Qiong Chen, and **Fangming Liu**, "AsyFunc: A High-Performance and Resource-Efficient Serverless Inference System via Asymmetric Functions", in Proc. of ACM SoCC, October 30-November 1, 2023, Santa Cruz, CA.
+* Qiangyu Pei, Yongjie Yuan, Haichuan Hu, Qiong Chen, and **Fangming Liu\***, "AsyFunc: A High-Performance and Resource-Efficient Serverless Inference System via Asymmetric Functions", in Proc. of ACM SoCC, October 30-November 1, 2023, Santa Cruz, CA.
 * Haichuan Hu, Zichen Xu, Yuhao Wang, and **Fangming Liu**, ["Fast and Scalable Gate-level Simulation in Massively Parallel Systems"](https://fangmingliu.github.io/files/ICCAD23_ZhouBi_CR.pdf), in IEEE/ACM **ICCAD**, 2023.
 * Aodong Chen, Fei Xu, Yuan Dong, Li Chen, Zhi Zhou and **Fangming Liu**, ["Opara: Exploring Operator Parallelism for Expediting DNN Inference on GPUs"](https://fangmingliu.github.io/files/opara.pdf), in **CCFSys**, 2023. (<span style="color:red;">**DPCS Best Student Paper Award**</span>)
 * Xinghan Wang, Xiaoxiong Zhong, Jiahong Ning, Tingting Yang, Yuanyuan Yang, Guoming Tang and **Fangming Liu**, "Two-Stage Coded Distributed Learning: A Dynamic Partial Gradient Coding Perspective", IEEE **ICDCS**, 18-21 July, 2023, Hong Kong, China.
