@@ -63,7 +63,7 @@ author_profile: true
 ## Conference Publications:
 
 * Qiangyu Pei, Yongjie Yuan, Haichuan Hu, Qiong Chen, and **Fangming Liu\***, "AsyFunc: A High-Performance and Resource-Efficient Serverless Inference System via Asymmetric Functions", in Proc. of ACM [**SoCC**](https://acmsocc.org/2023/), October 30-November 1, 2023, Santa Cruz, CA.
-* Haichuan Hu, Zichen Xu, Yuhao Wang, and **Fangming Liu**, ["Fast and Scalable Gate-level Simulation in Massively Parallel Systems"](https://fangmingliu.github.io/files/ICCAD23_ZhouBi_CR.pdf), in IEEE/ACM **ICCAD**, 2023.
+* Haichuan Hu, Zichen Xu, Yuhao Wang, and **Fangming Liu**, ["Fast and Scalable Gate-level Simulation in Massively Parallel Systems"](https://fangmingliu.github.io/files/ICCAD23_ZhouBi_CR.pdf), in IEEE/ACM [**ICCAD**](https://iccad.com), 2023.
 * Aodong Chen, Fei Xu, Yuan Dong, Li Chen, Zhi Zhou and **Fangming Liu**, ["Opara: Exploring Operator Parallelism for Expediting DNN Inference on GPUs"](https://fangmingliu.github.io/files/opara.pdf), in [**CCFSys**](https://ccf.org.cn/CCFSys2023), 2023. (<span style="color:red;">**DPCS Best Student Paper Award**</span>)
 * Xinghan Wang, Xiaoxiong Zhong, Jiahong Ning, Tingting Yang, Yuanyuan Yang, Guoming Tang and **Fangming Liu**, "Two-Stage Coded Distributed Learning: A Dynamic Partial Gradient Coding Perspective", IEEE [**ICDCS**](https://icdcs2023.icdcs.org/), 18-21 July, 2023, Hong Kong, China.
 * Ruitao Shang, Fei Xu, Zhuoyan Bai, Li Chen, Zhi Zhou, and **Fangming Liu**, [“spotDNN: Provisioning Spot Instances for Predictable Distributed DNN Training in the Cloud”](https://fangmingliu.github.io/files/iwqos2023.pdf), in Proc. of IEEE/ACM [**IWQoS**](https://iwqos2023.ieee-iwqos.org/), 19–21 June, 2023, Orlando, FL, USA.
