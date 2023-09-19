@@ -93,6 +93,7 @@ author_profile: true
 
 ## Invited Reviewer for Grants, Papers, and Awards:
 
+* 国家工信部2023年国家重点研发计划项目会评专家
 * 科学探索奖评审专家
 * Hong Kong RGC (Research Grants Council) external reviewer of General Research Fund (GRF) and Early Career Scheme (ECS)
 * Italian Ministry for University and Research (MUR) PRIN 2020 research projects external reviewer/expert
