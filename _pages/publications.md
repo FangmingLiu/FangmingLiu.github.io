@@ -6,6 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
+* **Fangming Liu\***, Yipei Niu, ["Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal"](https://fangmingliu.github.io/files/cost_model_tpds.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2023.
 * Fei Xu, Jianian Xu, Jiabin Chen, Li Chen, Ruitao Shang, Zhi Zhou, and **Fangming Liu**, ["iGniter: Interference-Aware GPU Resource Provisioning for Predictable DNN Inference in the Cloud"](https://fangmingliu.github.io/files/GPU-inference-cloud-tpds2023.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2023.
 * Jing Wu, Lin Wang, Qiangyu Pei, Xingqi Cui, **Fangming Liu\***, and Tingting Yang, ["HiTDL: High-Throughput Deep Learning Inference at the Hybrid Mobile Edge"](https://fangmingliu.github.io/files/hitdl-full-paper-jing.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2022.
 * **Fangming Liu**, Jian Chen, Qixia Zhang, and Bo Li, [“Online MEC Offloading for V2V Networks”](https://fangmingliu.github.io/files/TMC22-V2V-MEC.pdf), to appear in IEEE Transactions on Mobile Computing, 2022.
