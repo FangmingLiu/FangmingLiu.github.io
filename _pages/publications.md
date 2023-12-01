@@ -64,6 +64,7 @@ author_profile: true
 
 ## Conference Publications:
 
+* Dou Feng, Lin Wang, Shutong Chen, Lingjing Dong, and **Fangming Liu\***, "X-Stream: A Flexible, Adaptive Video Transformer for Privacy-Preserving Video Stream Analytics", in Proc. of IEEE [**INFOCOM**](https://infocom2024.ieee-infocom.org/), acceptance ratio: 19.6%, 20-23 May 2024, Vancouver, Canada.
 * Qiangyu Pei, Yongjie Yuan, Haichuan Hu, Qiong Chen, and **Fangming Liu\***, ["AsyFunc: A High-Performance and Resource-Efficient Serverless Inference System via Asymmetric Functions"](https://fangmingliu.github.io/files/SoCC23-AsyFunc.pdf), in Proc. of ACM [**SoCC**](https://acmsocc.org/2023/), October 30-November 1, 2023, Santa Cruz, CA.
 * Haichuan Hu, Zichen Xu, Yuhao Wang, and **Fangming Liu**, ["Fast and Scalable Gate-level Simulation in Massively Parallel Systems"](https://fangmingliu.github.io/files/ICCAD23_ZhouBi_CR.pdf), in IEEE/ACM [**ICCAD**](https://iccad.com), 2023.
 * Aodong Chen, Fei Xu, Yuan Dong, Li Chen, Zhi Zhou and **Fangming Liu**, ["Opara: Exploring Operator Parallelism for Expediting DNN Inference on GPUs"](https://fangmingliu.github.io/files/opara.pdf), in [**CCFSys**](https://ccf.org.cn/CCFSys2023), 2023. (<span style="color:red;">**DPCS Best Student Paper Award**</span>)
