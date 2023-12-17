@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
-* Jing Wu, Lin Wang, Qirui Jin, and **Fangming Liu\***, "Graft: Efficient Inference Serving for Hybrid Deep Learning with SLO Guarantee via DNN Re-alignment", to appear in IEEE Transactions on Parallel and Distributed Systems, 2023.
+* Jing Wu, Lin Wang, Qirui Jin, and **Fangming Liu\***, ["Graft: Efficient Inference Serving for Hybrid Deep Learning with SLO Guarantee via DNN Re-alignment"](https://fangmingliu.github.io/files/TPDS23-Graft.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2023.
 * **Fangming Liu\***, Yipei Niu, ["Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal"](https://fangmingliu.github.io/files/cost_model_tpds.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2023.
 * Fei Xu, Jianian Xu, Jiabin Chen, Li Chen, Ruitao Shang, Zhi Zhou, and **Fangming Liu**, ["iGniter: Interference-Aware GPU Resource Provisioning for Predictable DNN Inference in the Cloud"](https://fangmingliu.github.io/files/GPU-inference-cloud-tpds2023.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2023.
 * Tingting Yang, Zhengqi Cui, Chenghui Peng, Jianjun Wu, **Fangming Liu**, Yang Yang, ["Integrated Communication and Computing Maritime Networks Design for Green Metaverse"](https://ieeexplore.ieee.org/document/10325442), to appear in IEEE Wireless Communications, 2023.
