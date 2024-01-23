@@ -65,7 +65,7 @@ author_profile: true
 
 ## Conference Publications:
 
-* Haichuan Hu, **Fangming Liu\***, Qiangyu Pei, Yongjie Yuan, Zichen Xu, and Lin Wang, "𝜆Grapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing", in Proc. of ACM [WWW](https://www2024.thewebconf.org/), acceptance ratio: 20.2%, 13-17 May 2024, Singapore.
+* Haichuan Hu, **Fangming Liu\***, Qiangyu Pei, Yongjie Yuan, Zichen Xu, and Lin Wang, "𝜆Grapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing", in Proc. of ACM [**WWW**](https://www2024.thewebconf.org/), acceptance ratio: 20.2%, 13-17 May 2024, Singapore.
 * Dou Feng, Lin Wang, Shutong Chen, Lingjing Dong, and **Fangming Liu\***, ["X-Stream: A Flexible, Adaptive Video Transformer for Privacy-Preserving Video Stream Analytics"](https://fangmingliu.github.io/files/INFOCOM24-xstream.pdf), in Proc. of IEEE [**INFOCOM**](https://infocom2024.ieee-infocom.org/), acceptance ratio: 19.6%, 20-23 May 2024, Vancouver, Canada.
 * Qiangyu Pei, Yongjie Yuan, Haichuan Hu, Qiong Chen, and **Fangming Liu\***, ["AsyFunc: A High-Performance and Resource-Efficient Serverless Inference System via Asymmetric Functions"](https://fangmingliu.github.io/files/SoCC23-AsyFunc.pdf), in Proc. of ACM [**SoCC**](https://acmsocc.org/2023/), October 30-November 1, 2023, Santa Cruz, CA.
 * Haichuan Hu, Zichen Xu, Yuhao Wang, and **Fangming Liu**, ["Fast and Scalable Gate-level Simulation in Massively Parallel Systems"](https://fangmingliu.github.io/files/ICCAD23_ZhouBi_CR.pdf), in IEEE/ACM [**ICCAD**](https://iccad.com), 2023.
