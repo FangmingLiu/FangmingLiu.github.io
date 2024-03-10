@@ -4,6 +4,7 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
+* 中国电子学会科学技术奖：整机柜服务器及配套软件关键技术与产业化，2023
 * [华为开发者大赛代码上太空赛道](https://competition.huaweicloud.com/information/1000041709/html8)：**<span style="color:red;">冠军奖</span>（基于神经网络模型动态切分的星地协同遥感图像分析系统CoStar）**，2022
     * 主流媒体报道：[人民网](http://finance.people.com.cn/n1/2022/1121/c1004-32570546.html)、[新华社](https://h.xinhuaxmt.com/vh512/share/11219802?d=1348cc1&channel=weixin)、[中国青年报](https://s.cyol.com/shuzibao/cmsfile/cms_json/zqzx/Newspaper/2/2022-11-21/Content/nw.D110000zgqnb_20221121_1-08.html?isshow=1)、[共青团中央](https://mp.weixin.qq.com/s/qNg8cObcY3xjrWl63jY1gA)、[环球网](https://5gcenter.huanqiu.com/article/4AYgE52O7zc)、[中国日报网](https://cn.chinadaily.com.cn/a/202211/21/WS637b3323a3109bd995a51311.html)、[新浪网](https://news.sina.com.cn/sx/2022-11-21/detail-imqqsmrp7016324.shtml)、[凤凰网](https://tech.ifeng.com/c/8L66ybC15u9)、[中国网](http://science.china.com.cn/2022-11/21/content_42178811.htm)、[IT之家](https://www.ithome.com/0/655/427.htm)、[天极网](http://news.yesky.com/hotnews/347/2147430847.shtml)、[飞象网](http://www.cctime.com/html/2022-11-21/1636124.htm)、[至顶网](https://big-data.zhiding.cn/2022/1121/3145859.shtml) 、[51CTO](https://www.51cto.com/article/740287.html)
 * [华为开发者大赛代码上太空赛道](https://competition.huaweicloud.com/information/1000041709/html8)：**优胜奖（面向星地协同的动态调度系统）**，2022
