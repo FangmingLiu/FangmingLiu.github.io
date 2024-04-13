@@ -66,6 +66,7 @@ author_profile: true
 
 ## Conference Publications:
 
+* Guanqiao Qu, Zheng Lin, Qian Chen, Jian Li, **Fangming Liu**, Xianhao Chen, and Kaibin Huang, "TrimCaching: Parameter-sharing AI Model Caching in Wireless Edge Networks", IEEE [**ICDCS**](https://icdcs2024.icdcs.org/), 23-26 July, 2024, New Jersey, USA.
 * Haichuan Hu, **Fangming Liu\***, Qiangyu Pei, Yongjie Yuan, Zichen Xu, and Lin Wang, ["𝜆Grapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing"](https://fangmingliu.github.io/files/WWW24-LambdaGrapher.pdf), in Proc. of ACM [**WWW**](https://www2024.thewebconf.org/), acceptance ratio: 20.2%, 13-17 May 2024, Singapore.
 * Dou Feng, Lin Wang, Shutong Chen, Lingjing Dong, and **Fangming Liu\***, ["X-Stream: A Flexible, Adaptive Video Transformer for Privacy-Preserving Video Stream Analytics"](https://fangmingliu.github.io/files/INFOCOM24-xstream.pdf), in Proc. of IEEE [**INFOCOM**](https://infocom2024.ieee-infocom.org/), acceptance ratio: 19.6%, 20-23 May 2024, Vancouver, Canada.
 * Qiangyu Pei, Yongjie Yuan, Haichuan Hu, Qiong Chen, and **Fangming Liu\***, ["AsyFunc: A High-Performance and Resource-Efficient Serverless Inference System via Asymmetric Functions"](https://fangmingliu.github.io/files/SoCC23-AsyFunc.pdf), in Proc. of ACM [**SoCC**](https://acmsocc.org/2023/), October 30-November 1, 2023, Santa Cruz, CA.
