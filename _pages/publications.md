@@ -66,7 +66,7 @@ author_profile: true
 
 ## Conference Publications:
 
-* Guanqiao Qu, Zheng Lin, Qian Chen, Jian Li, **Fangming Liu**, Xianhao Chen, and Kaibin Huang, "TrimCaching: Parameter-sharing AI Model Caching in Wireless Edge Networks", in Proc. of IEEE [**ICDCS**](https://icdcs2024.icdcs.org/), 23-26 July, 2024, New Jersey, USA.
+* Guanqiao Qu, Zheng Lin, Qian Chen, Jian Li, **Fangming Liu**, Xianhao Chen, and Kaibin Huang, ["TrimCaching: Parameter-sharing AI Model Caching in Wireless Edge Networks"](https://fangmingliu.github.io/files/TrimCaching.pdf), in Proc. of IEEE [**ICDCS**](https://icdcs2024.icdcs.org/), 23-26 July, 2024, New Jersey, USA.
 * Jiabin Chen, Fei Xu, Yikun Gu, Li Chen, **Fangming Liu**, and Zhi Zhou, ["HarmonyBatch: Batching multi-SLO DNN Inference with Heterogeneous Serverless Functions"](https://fangmingliu.github.io/files/serverless-inference-iwqos2024.pdf), in Proc. of IEEE/ACM [**IWQoS**](https://iwqos2024.ieee-iwqos.org), 19–21 June, 2024, Guangzhou, China.
 * Yuming Feng, Weizhe Zhang, Zijun Feng, Xiaoxiong Zhong, and **Fangming Liu**, "An MTD-driven Hybrid Defense Method Against DDoS Based on Markov Game in Multi-controller SDN-enabled IoT Networks", in Proc. of IEEE/ACM [**IWQoS**](https://iwqos2024.ieee-iwqos.org), 19–21 June, 2024, Guangzhou, China.
 * Haichuan Hu, **Fangming Liu\***, Qiangyu Pei, Yongjie Yuan, Zichen Xu, and Lin Wang, ["𝜆Grapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing"](https://fangmingliu.github.io/files/WWW24-LambdaGrapher.pdf), in Proc. of ACM [**WWW**](https://www2024.thewebconf.org/), acceptance ratio: 20.2%, 13-17 May, 2024, Singapore.
