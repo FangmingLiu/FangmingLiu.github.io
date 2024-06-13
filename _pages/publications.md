@@ -66,6 +66,7 @@ author_profile: true
 
 ## Conference Publications:
 
+* Qiong Chen, Jianmin Qian, Yulin Che, Ziqi Lin, Jianfeng Wang, Jie Zhou, Licheng Song, Yi Liang, Jie Wu, Wei Zheng, Wei Liu, Linfeng Li, **Fangming Liu\***, and Kun Tan, "YuanRong: A Production General-purpose Serverless System for Distributed Applications in the Cloud", in Proc. of ACM [**SIGCOMM**](https://conferences.sigcomm.org/sigcomm/2024/), August 4–8, 2024, Sydney, NSW, Australia.
 * Guanqiao Qu, Zheng Lin, Qian Chen, Jian Li, **Fangming Liu**, Xianhao Chen, and Kaibin Huang, ["TrimCaching: Parameter-sharing AI Model Caching in Wireless Edge Networks"](https://fangmingliu.github.io/files/TrimCaching.pdf), in Proc. of IEEE [**ICDCS**](https://icdcs2024.icdcs.org/), 23-26 July, 2024, New Jersey, USA.
 * Jiabin Chen, Fei Xu, Yikun Gu, Li Chen, **Fangming Liu**, and Zhi Zhou, ["HarmonyBatch: Batching multi-SLO DNN Inference with Heterogeneous Serverless Functions"](https://fangmingliu.github.io/files/serverless-inference-iwqos2024.pdf), in Proc. of IEEE/ACM [**IWQoS**](https://iwqos2024.ieee-iwqos.org), 19–21 June, 2024, Guangzhou, China.
 * Yuming Feng, Weizhe Zhang, Zijun Feng, Xiaoxiong Zhong, and **Fangming Liu**, "An MTD-driven Hybrid Defense Method Against DDoS Based on Markov Game in Multi-controller SDN-enabled IoT Networks", in Proc. of IEEE/ACM [**IWQoS**](https://iwqos2024.ieee-iwqos.org), 19–21 June, 2024, Guangzhou, China.
