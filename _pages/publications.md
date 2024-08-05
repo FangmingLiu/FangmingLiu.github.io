@@ -6,6 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
+* Fei Xu, Xiyue Shen, Shuohao Lin, Li Chen, Zhi Zhou, Fen Xiao, **Fangming Liu**, Tetris: Scheduling Long-Running Workloads for Load Balancing in Shared Containerized Clusters, to appear in IEEE Transactions on Services Computing, 2024.
 * Zhaojie Wen, Qiong Chen, Yipei Niu, Zhen Song, Quanfeng Deng, **Fangming Liu\***, [“Joint Optimization of Parallelism and Resource Configuration for Serverless Function Steps”](https://fangmingliu.github.io/files/TPDS24-stepconf.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2024.
 * Jing Wu, Lin Wang, Qirui Jin, and **Fangming Liu\***, ["Graft: Efficient Inference Serving for Hybrid Deep Learning with SLO Guarantee via DNN Re-alignment"](https://fangmingliu.github.io/files/TPDS23-Graft.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2023.
 * **Fangming Liu\***, Yipei Niu, ["Demystifying the Cost of Serverless Computing: Towards a Win-Win Deal"](https://fangmingliu.github.io/files/cost_model_tpds.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2023.
