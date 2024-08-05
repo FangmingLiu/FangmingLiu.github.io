@@ -94,6 +94,7 @@ author_profile: true
 
 ## Invited Reviewer for Grants, Papers, and Awards:
 
+* [第一届CCF算力网系统与应用大赛评审组组长](https://mp.weixin.qq.com/s/PwZwGBwY-N8IefoBzgWu6w)
 * 国家工信部2023年国家重点研发计划项目会评专家
 * 科学探索奖评审专家
 * Hong Kong RGC (Research Grants Council) external reviewer of General Research Fund (GRF) and Early Career Scheme (ECS)
