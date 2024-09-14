@@ -6,6 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
+* Junming Wang, Zekai Sun, Xiuxian Guan, Tianxiang Shen, Dong Huang, Zongyuan Zhang, Tianyang Duan, **Fangming Liu**, Heming Cui, "HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments", to appear in [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 2024.
 * Zhaojie Wen, Qiong Chen, Quanfeng Deng, Yipei Niu, Zhen Song, **Fangming Liu\***, ["ComboFunc: Joint Resource Combination and Container Placement for Serverless Function Scaling with Heterogeneous Container"](https://fangmingliu.github.io/files/ComboFunc-tpds24.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2024.
 * Fei Xu, Xiyue Shen, Shuohao Lin, Li Chen, Zhi Zhou, Fen Xiao, **Fangming Liu**, ["Tetris: Scheduling Long-Running Workloads for Load Balancing in Shared Containerized Clusters"](https://fangmingliu.github.io/files/TSC24-Tetris.pdf), to appear in IEEE Transactions on Services Computing, 2024.
 * Zhaojie Wen, Qiong Chen, Yipei Niu, Zhen Song, Quanfeng Deng, **Fangming Liu\***, ["Joint Optimization of Parallelism and Resource Configuration for Serverless Function Steps"](https://fangmingliu.github.io/files/TPDS24-stepconf.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2024.
