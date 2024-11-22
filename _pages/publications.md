@@ -71,7 +71,7 @@ author_profile: true
 
 ## Conference Publications:
 
-* Qiangyu Pei, Lin Wang, Dong Zhang, Bingheng Yan, Chen Yu, and **Fangming Liu\***, "InferCool: Enhancing AI Inference Cooling through Transparent, Non-Intrusive Task Reassignment", in Proc. of ACM [**SoCC**](https://acmsocc.org/2024/), November 20-22, 2024, Redmond, WA.
+* Qiangyu Pei, Lin Wang, Dong Zhang, Bingheng Yan, Chen Yu, and **Fangming Liu\***, ["InferCool: Enhancing AI Inference Cooling through Transparent, Non-Intrusive Task Reassignment"](https://fangmingliu.github.io/files/InferCool.pdf), in Proc. of ACM [**SoCC**](https://acmsocc.org/2024/), November 20-22, 2024, Redmond, WA.
 * Qiong Chen, Jianmin Qian, Yulin Che, Ziqi Lin, Jianfeng Wang, Jie Zhou, Licheng Song, Yi Liang, Jie Wu, Wei Zheng, Wei Liu, Linfeng Li, **Fangming Liu\***, and Kun Tan, "YuanRong: A Production General-purpose Serverless System for Distributed Applications in the Cloud", in Proc. of ACM [**SIGCOMM**](https://conferences.sigcomm.org/sigcomm/2024/), August 4–8, 2024, Sydney, NSW, Australia.
 * Zekai Sun, Xiuxian Guan, Junming Wang, **Fangming Liu**, and Heming Cui, ["New Problems in Distributed Inference for DNN Models on Robotic IoT"](https://fangmingliu.github.io/files/ApPLIED24.pdf), in ApPLIED'24 (Proceedings of the 2024 Workshop on Advanced Tools, Programming Languages, and PLatforms for Implementing and Evaluating algorithms for Distributed systems), June 17-21, 2024, Nantes, France.
 * Guanqiao Qu, Zheng Lin, Qian Chen, Jian Li, **Fangming Liu**, Xianhao Chen, and Kaibin Huang, ["TrimCaching: Parameter-sharing AI Model Caching in Wireless Edge Networks"](https://fangmingliu.github.io/files/TrimCaching.pdf), in Proc. of IEEE [**ICDCS**](https://icdcs2024.icdcs.org/), 23-26 July, 2024, New Jersey, USA.
