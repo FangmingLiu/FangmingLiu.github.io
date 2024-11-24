@@ -6,6 +6,8 @@ author_profile: true
 
 ## Journal Publications:
 
+* Jiahai Hu, Lin Wang, Jing Wu, Qiangyu Pei, **Fangming Liu\***, and Bo Li, "A Comparative Measurement Study of Cross-Layer 5G Performance under Different Mobility Scenarios", Computer Networks, 2024.
+* Jiake Tian, Yi Zou, Jiale Lai, and **Fangming Liu\***, "mmDigit: A Real-Time Digit Recognition Framework in Air-Writing Using FMCW Radar", IEEE Internet of Things Journal (Impact Factor: 8.2), 2024.
 * Zheng Shi, Yi Zou, Xianfeng Song, Shupeng Li, **Fangming Liu**, and Quan Xue, ["DyLaClass: Dynamic Labeling Based Classification for Optimal Sparse Matrix Format Selection in Accelerating SpMV"](https://fangmingliu.github.io/files/tpds24-spmv.pdf), to appear in IEEE Transactions on Parallel and Distributed Systems, 2024.
 * Aodong Chen, Fei Xu, Li Han, Yuan Dong, Li Chen, Zhi Zhou, and **Fangming Liu**, "Opara: Exploiting Operator Parallelism for Expediting DNN Inference on GPUs", to appear in IEEE Transactions on Computers, 2024.
 * Junming Wang, Zekai Sun, Xiuxian Guan, Tianxiang Shen, Dong Huang, Zongyuan Zhang, Tianyang Duan, **Fangming Liu**, and Heming Cui, ["HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments"](https://fangmingliu.github.io/files/HE-Nav.pdf), to appear in [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 2024.
