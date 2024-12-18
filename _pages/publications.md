@@ -74,6 +74,7 @@ author_profile: true
 
 ## Conference Publications:
 
+* Xiang Li, Yucheng Zhou, Laiping Zhao, Jing Li, and **Fangming Liu\***, ["Impromptu cybercrime euphemism detection"](https://fangmingliu.github.io/files/ICED.pdf), in the 31st International Conference on Computational Linguistics ([**COLING**](https://coling2025.org/)), January 19–24, 2025, Abu Dhabi, UAE.
 * Yifan Lu, Yigeng Zhou, Jing Li, Yequan Wang, Xuebo Liu, Daojing He, **Fangming Liu**, and Min Zhang, "Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering", in Proc. of [**AAAI**](https://aaai.org/conference/aaai/aaai-25/), February 25 – March 4, 2025, Philadelphia, Pennsylvania, USA.
 * Changlong Li, Zongwei Zhu, Chao Wang, **Fangming Liu**, Fei Xu, Xuehai Zhou, and Edwin Sha, "Archer: Adaptive Memory Compression with Page-Association-Rule Awareness for High-Speed Response of Mobile Devices", in Proc. of USENIX [**FAST**](https://www.usenix.org/conference/fast25), February 25–27, 2025, Santa Clara, CA, USA.
 * Zhi Zhou, Jiajie Xie, Mengke Huang, Tao Ouyang, **Fangming Liu**, and Xu Chen, "Towards Federated Inference: An Online Model Ensemble Framework for Cooperative Edge AI", in Proc. of IEEE [**INFOCOM**](https://infocom2025.ieee-infocom.org), 19–22 May, 2025, London, United Kingdom.
