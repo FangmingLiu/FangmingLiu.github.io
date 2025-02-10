@@ -6,6 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
+* Qiangyu Pei, Yongjie Yuan, Haichuan Hu, Lin Wang, Dong Zhang, Bingheng Yan, Chen Yu, and **Fangming Liu\***, ["Working Smarter Not Harder: Hybrid Cooling for Deep Learning in Edge Datacenters"](https://fangmingliu.github.io/files/TSUSC25-Hyco.pdf), IEEE Transactions on Sustainable Computing, 2025.
 * Junming Wang, Dong Huang, Xiuxian Guan, Zekai Sun, Tianxiang Shen, **Fangming Liu**, and Heming Cui, ["OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model"](https://fangmingliu.github.io/files/Omega.pdf), [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 2024.
 * Jiahai Hu, Lin Wang, Jing Wu, Qiangyu Pei, **Fangming Liu\***, and Bo Li, ["A Comparative Measurement Study of Cross-Layer 5G Performance under Different Mobility Scenarios"](https://fangmingliu.github.io/files/5G_Measurement.pdf), [Computer Networks](https://www.sciencedirect.com/journal/computer-networks), 2024.
 * Jiake Tian, Yi Zou, Jiale Lai, and **Fangming Liu\***, ["mmDigit: A Real-Time Digit Recognition Framework in Air-Writing Using FMCW Radar"](https://fangmingliu.github.io/files/mmDigit.pdf), [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) (Impact Factor: 8.2), 2024.
