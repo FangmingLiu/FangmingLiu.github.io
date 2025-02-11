@@ -75,6 +75,7 @@ author_profile: true
 
 ## Conference Publications:
 
+* Xinyi Zhang, Hanyu Zhao, Wencong Xiao, Xianyan Jia, Fei Xu, Yong Li, Wei Lin, and **Fangming Liu**, "Morphling: Exploiting Job Reconfigurability for Deep Learning Cluster Scheduling", in Proc. of [**MLSys**](https://mlsys.org/Conferences/2025), 12-15 May, 2025, Santa Clara, USA.
 * Yaxi Lu, Shenzhi Yang, Cheng Qian, Guirong Chen, Qinyu Luo, Yesai Wu, Huadong Wang, Xin Cong, Zhong Zhang, Yankai Lin, Weiwen Liu, Yasheng Wang, Zhiyuan Liu, **Fangming Liu**, and Maosong Sun, ["Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance"](https://arxiv.org/abs/2410.12361), in Proc. of [**ICLR**](https://iclr.cc/Conferences/2025), 24-28 April, 2025, Singapore. ([open source](https://github.com/thunlp/ProactiveAgent))
 * Jing Wu, Lin Wang, Quanfeng Deng, Chen Yu, Dong Zhang, Bingheng Yan, and **Fangming Liu\***, "It Takes Two to Tango: Serverless Workflow Serving via Bilaterally Engaged Resource Adaptation", in Proc. of IEEE [**IPDPS**](https://www.ipdps.org/), June 3-7, 2025, Milan, Italy.
 * Xiang Li, Yucheng Zhou, Laiping Zhao, Jing Li, and **Fangming Liu\***, ["Impromptu cybercrime euphemism detection"](https://fangmingliu.github.io/files/ICED.pdf), in the 31st International Conference on Computational Linguistics ([**COLING**](https://coling2025.org/)), January 19–24, 2025, Abu Dhabi, UAE.
