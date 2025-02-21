@@ -47,7 +47,7 @@ author_profile: true
 * IEEE GreenCom 2024
 * ACAC (1st ACM China Annual Conference) 2017 SIGCOMM China Symposium
 * USENIX CoolDC 2017 (2nd Workshop on Cool Topics in Sustainable Data Centers), colocated with USENIX ASPLOS 2017
-* IEEE LANMAN 2017/2018/2019/2020/2021/2022/2023/2024
+* IEEE LANMAN 2017/2018/2019/2020/2021/2022/2023/2024/2025
 * IEEE CCNC 2017 (14th Annual IEEE Consumer Communications & Networking Conference) (Cloud Services and Networking track), co-location with CES (the world’s largest tradeshow on consumer technology, extensive press coverage and ~150,000 attendees)
 * IEEE ICNP 2014
 * IEEE IPCCC 2015 (34th IEEE -- International Performance Computing and Communications Conference)
