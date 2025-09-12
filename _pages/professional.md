@@ -34,7 +34,7 @@ author_profile: true
 ## Program Committee Member (TPC):
 
 * AAAI 2026
-* WWW 2018 (Demo Track) / 2019 (Demo Track) / 2020 (Main Track) / 2021 (Systems and Infrastructure Track) / 2022 (Scalability and Infrastructure Track) / 2024 / 2025
+* WWW 2018 (Demo Track) / 2019 (Demo Track) / 2020 (Main Track) / 2021 (Systems and Infrastructure Track) / 2022 (Scalability and Infrastructure Track) / 2024 / 2025 / 2026
 * ACM Symposium on Cloud Computing ([SoCC](https://acmsocc.org/2025/papers.html)) 2025
 * IEEE INFOCOM 2013/2014/2015/2016/2017/2018/2019 (Distinguished TPC)/2021/2022 (Distinguished TPC)/2023/2024/2025/2026
 * ACM Multimedia 2014/2016/2017/2018
