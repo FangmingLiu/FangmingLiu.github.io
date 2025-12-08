@@ -191,5 +191,6 @@ author_profile: true
 
 ## Technical Reports:
 
+* Kairong Luo, Zhenbo Sun, Xinyu Shi, Shengqi Chen, Bowen Yu, Yunyi Chen, Chenyi Dang, Hengtao Tao, Hui Wang, Fangming Liu, Kaifeng Lyu, Wenguang Chen, ["PCMind-2.1-Kaiyuan-2B Technical Report"](https://fangmingliu.github.io/files/PCMind_2_1_Kaiyuan_2B.pdf), 2025. ([open source](https://huggingface.co/thu-pacman/PCMind-2.1-Kaiyuan-2B))
 * Qiangyu Pei, Shutong Chen, Yongjie Yuan, Qixia Zhang, Xinhui Zhu, Ziyang Jia, **Fangming Liu\***, ["Cooling as You Wish: Component-Level Cooling for Heterogeneous Edge Datacenters"](https://fangmingliu.github.io/files/TPDS23-CoolEdge-TechnicalReport.pdf).
 * **Fangming Liu\***, Qiangyu Pei, Shutong Chen, Yongjie Yuan, Lin Wang, Max Mühlhäuser, ["When the Metaverse Meets Carbon Neutrality: Ongoing Efforts and Directions"](https://arxiv.org/abs/2301.10235), arXiv preprint arXiv:2301.10235, 2023.
