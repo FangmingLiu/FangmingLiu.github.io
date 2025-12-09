@@ -95,6 +95,7 @@ author_profile: true
 
 ## Panelist:
 
+* [灵机晟算，鹏乘万芯——大湾区多样性算力应用创新峰会](https://mp.weixin.qq.com/s/IV3RnuJha5bxQUrNLkBnPA)，深圳，12月5日，2025。圆桌论坛主题“多样算力，多元创新：探索多领域超算应用新范式”。
 * IEEE Computer Communications Workshop (CCW) panel on "mobile computing”, Philadelphia, USA, Nov. 6-7, 2014. Established in 1986, IEEE CCW is the annual flagship workshop of the Technical Committee on Computer Communications (TCCC) of the IEEE Communications Society. CCW is a single-track event composed of panels and sessions focused on specific "hot topics" in networking and computer communications.
 * The International Conference on Cloud Computing and Big Data (CCBD2014) panel on "The future trend of Big Data", which is a cross-area international forum on cloud computing and big data, to be held on November 12-14, 2014 at Wuhan University, Wuhan, China. CCBD2014 discusses the state-of-the-art, challenges, and trend of Big Data. Relevant topics include information retrieval/data mining, database system, data center, social network, software engineering and programming models,Big Data application.
 
