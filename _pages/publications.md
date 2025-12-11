@@ -188,6 +188,7 @@ author_profile: true
 
 * **刘方明**，李林锋，王磊，[华为Serverless核心技术与实践](https://item.jd.com/12995563.html)，电子工业出版社，2021年11月1日.
 * **Fangming Liu**, [Large-Scale Peer-Assisted Online Hosting, Distribution and Video Streaming Systems: Design, Modeling and Practice](https://www.morebooks.de/store/gb/book/large-scale-peer-assisted-online-hosting,-distribution-and-video-streaming-systems/isbn/978-3-330-00958-5), LAP LAMBERT Academic Publishing, April 2019.
+* [《中国电子信息工程科技发展研究——生态环境大模型研究与应用发展》](https://fangmingliu.github.io/files/LLM_book_cover.png)，科学出版社出版：“新一代信息工程科技新质生产力技术系列”，[主编：郭毅可，执行主编和编委会，副主编：刘方明等](https://fangmingliu.github.io/files/LLM-book_editor.png).
 
 ## Technical Reports:
 

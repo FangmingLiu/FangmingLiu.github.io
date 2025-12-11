@@ -99,8 +99,9 @@ author_profile: true
 * IEEE Computer Communications Workshop (CCW) panel on "mobile computing”, Philadelphia, USA, Nov. 6-7, 2014. Established in 1986, IEEE CCW is the annual flagship workshop of the Technical Committee on Computer Communications (TCCC) of the IEEE Communications Society. CCW is a single-track event composed of panels and sessions focused on specific "hot topics" in networking and computer communications.
 * The International Conference on Cloud Computing and Big Data (CCBD2014) panel on "The future trend of Big Data", which is a cross-area international forum on cloud computing and big data, to be held on November 12-14, 2014 at Wuhan University, Wuhan, China. CCBD2014 discusses the state-of-the-art, challenges, and trend of Big Data. Relevant topics include information retrieval/data mining, database system, data center, social network, software engineering and programming models,Big Data application.
 
-## Invited Reviewer for Grants, Papers, and Awards:
+## Invited Reviewer/Expert/Committee for Grants, Papers, Awards and Institutions:
 
+* [HKGAI](https://www.hkgai.info/)
 * [第一届CCF算力网系统与应用大赛评审组组长](https://mp.weixin.qq.com/s/PwZwGBwY-N8IefoBzgWu6w)
 * 国家工信部2023年国家重点研发计划项目会评专家
 * 科学探索奖评审专家
