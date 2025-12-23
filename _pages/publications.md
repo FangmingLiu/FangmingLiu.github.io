@@ -6,6 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 
+* Yue Ma, Dongwei Xu, Peng He, Hao Fu, Jing Ying, **Sheng Zhang\***, **Fangming Liu\***, Bowen Wang, Haiyuan Wan, and Zhirun Yue, ["Efficient Tensor Offloading Based on CXL Memory Pool For Extreme Scale Deep Learning"](https://fangmingliu.github.io/files/TC25.pdf), IEEE Transactions on Computing, 2025.
 * Xiaoxiong Zhong, Hangfan Li, Li Li, Sheng Zhang, **Fangming Liu**, "Communication-Efficient Task-offloading in Mobile Edge Computing System: A Multi-Agent Multi-Armed Bandit Approach", IEEE Transactions on Cloud Computing, 2025.
 * Shutong Chen, Jingwen Yin, Ruichao Zhong, **Fangming Liu**, ["DeVA: An Edge-assisted Video Analytics Framework for Depth Estimation"](https://fangmingliu.github.io/files/TMC25-DeVA.pdf), IEEE Transactions on Mobile Computing, 2025.
 * Qiangyu Pei, Yongjie Yuan, Haichuan Hu, Lin Wang, Dong Zhang, Bingheng Yan, Chen Yu, and **Fangming Liu\***, ["Working Smarter Not Harder: Hybrid Cooling for Deep Learning in Edge Datacenters"](https://fangmingliu.github.io/files/TSUSC25-Hyco.pdf), IEEE Transactions on Sustainable Computing, 2025.
