@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Journal Publications:
-
+* Hongbo Duan, Shangyi Luo, Zhiyuan Deng, Yanbo Chen, Yuanhao Chiang, Yi Liu, **Fangming Liu**, xueqian WANG, ["CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios"](https://fangmingliu.github.io/files/CausalNav-RL26.pdf), IEEE Robotics and Automation Letters, 2026.
 * Yue Ma, Dongwei Xu, Peng He, Hao Fu, Jing Ying, **Sheng Zhang\***, **Fangming Liu\***, Bowen Wang, Haiyuan Wan, and Zhirun Yue, ["Efficient Tensor Offloading Based on CXL Memory Pool For Extreme Scale Deep Learning"](https://fangmingliu.github.io/files/TC25.pdf), IEEE Transactions on Computers, 2025.
 * Xiaoxiong Zhong, Hangfan Li, Li Li, Sheng Zhang, **Fangming Liu**, "Communication-Efficient Task-offloading in Mobile Edge Computing System: A Multi-Agent Multi-Armed Bandit Approach", IEEE Transactions on Cloud Computing, 2025.
 * Shutong Chen, Jingwen Yin, Ruichao Zhong, **Fangming Liu**, ["DeVA: An Edge-assisted Video Analytics Framework for Depth Estimation"](https://fangmingliu.github.io/files/TMC25-DeVA.pdf), IEEE Transactions on Mobile Computing, 2025.
