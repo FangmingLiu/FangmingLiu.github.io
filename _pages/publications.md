@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Journal Publications:
+* **Fangming Liu**, Qiangyu Pei\*, Shutong Chen, Yongjie Yuan, Qixia Zhang, Xinhui Zhu, Ziyang Jia, Fei Xu, Dong Zhang, Bingheng Yan, ["Cooling as You Wish: Component-Level Cooling for Heterogeneous Edge Datacenters"](https://fangmingliu.github.io/files/TC_CoolEdge.pdf), IEEE Transactions on Computers, 2026.
 * Hongbo Duan, Shangyi Luo, Zhiyuan Deng, Yanbo Chen, Yuanhao Chiang, Yi Liu, **Fangming Liu**, xueqian WANG, ["CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios"](https://fangmingliu.github.io/files/CausalNav-RL26.pdf), IEEE Robotics and Automation Letters, 2026.
 * Yue Ma, Dongwei Xu, Peng He, Hao Fu, Jing Ying, **Sheng Zhang\***, **Fangming Liu\***, Bowen Wang, Haiyuan Wan, and Zhirun Yue, ["Efficient Tensor Offloading Based on CXL Memory Pool For Extreme Scale Deep Learning"](https://fangmingliu.github.io/files/TC25.pdf), IEEE Transactions on Computers, 2025.
 * Xiaoxiong Zhong, Hangfan Li, Li Li, Sheng Zhang, **Fangming Liu**, "Communication-Efficient Task-offloading in Mobile Edge Computing System: A Multi-Agent Multi-Armed Bandit Approach", IEEE Transactions on Cloud Computing, 2025.
