@@ -25,6 +25,7 @@ author_profile: true
 * [Frontiers in High Performance Computing - High Performance Big Data Systems](https://www.frontiersin.org/journals/high-performance-computing/sections/high-performance-big-data-systems#editorial-board), Review Editor, 2022-now
 * [Journal of Computer Science and Technology (JCST)](http://jcst.ict.ac.cn/EN/1000-9000/home.shtml), Young AE, 2019 - now
 * Frontiers of Computer Science, Young AE, 2012-2018
+* 《华中科技大学学报（自然科学版）》编委，2021-now
 
 ## Guest Editor:
 
