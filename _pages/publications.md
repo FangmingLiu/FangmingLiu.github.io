@@ -6,6 +6,7 @@ author_profile: true
 
 ## Journal Publications:
 * Haochen Han, Alex Jinpeng Wang, **Fangming Liu**, Jun Zhu, ["Negation-Aware Test-Time Adaptation for Vision-Language Models"](https://fangmingliu.github.io/files/TPAMI2026-Liu.pdf), IEEE Transactions on Pattern Analysis and Machine Intelligence (**Impact Factor: 18.6**), 2026. ([open source](https://github.com/hhc1997/NEAT))
+* Heqiang Wang, Xiaoxiong Zhong, Weihong Yang, Hualong Wu, Fangming Liu, and Weizhe Zhang, ["Detection and Mitigation Data Poisoning Attacks in Multimodal Online Federated Learning"](https://fangmingliu.github.io/files/TIFS26-Liu.pdf), IEEE Transactions on Information Forensics & Security, 2026.
 * Jiahai Hu, Shutong Chen, Lin Wang, Qiangyu Pei, **Fangming Liu**, and Bo Li, ["QRoute: A QoE-Aware Route Planning System for Enhancing In-Vehicle Video Streaming"](https://fangmingliu.github.io/files/QRoute.pdf), [Computer Networks](https://www.sciencedirect.com/journal/computer-networks), 2026.
 * Guanqiao Qu, Zheng Lin, Qian Chen, Jian Li, **Fangming Liu**, Xianhao Chen, and Kaibin Huang, ["TrimCaching: Parameter-sharing Edge Caching for AI Model Downloading"](https://fangmingliu.github.io/files/TON_TrimCaching.pdf), IEEE Transactions on Networking, 2026.
 * **Fangming Liu**, Qiangyu Pei\*, Shutong Chen, Yongjie Yuan, Qixia Zhang, Xinhui Zhu, Ziyang Jia, Fei Xu, Dong Zhang, Bingheng Yan, ["Cooling as You Wish: Component-Level Cooling for Heterogeneous Edge Datacenters"](https://fangmingliu.github.io/files/TC_CoolEdge.pdf), IEEE Transactions on Computers, 2026.
