@@ -39,6 +39,7 @@ author_profile: true
 
 ## Program Committee Member (TPC):
 
+* IEEE HPCA 2027
 * AAAI 2026/2027 (Senior PC)
 * WWW 2018 (Demo Track) / 2019 (Demo Track) / 2020 (Main Track) / 2021 (Systems and Infrastructure Track) / 2022 (Scalability and Infrastructure Track) / 2024 / 2025 / 2026
 * ACM Symposium on Cloud Computing ([SoCC](https://acmsocc.org/2025/papers.html)) 2025
