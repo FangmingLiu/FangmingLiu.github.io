@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Journal Publications:
+* Xinghan Wang, Xiaoxiong Zhong, Weihong Yang, **Fangming Liu**, Weizhe Zhang, ["Mix-or-Split: Latency-Aware Scheduling for Edge–Cloud LLM Inference"](https://fangmingliu.github.io/files/tpds26-moe.pdf), IEEE Transactions on Parallel and Distributed Systems, 2026.
 * Haochen Han, Alex Jinpeng Wang, **Fangming Liu**, Jun Zhu, ["Negation-Aware Test-Time Adaptation for Vision-Language Models"](https://fangmingliu.github.io/files/TPAMI2026-Liu.pdf), IEEE Transactions on Pattern Analysis and Machine Intelligence (**Impact Factor: 18.6**), 2026. ([open source](https://github.com/hhc1997/NEAT))
 * Zekai Sun, Xiuxian Guan, Zheng Lin, Yuhao Qing, Haoze Song, Zihan Fang, Zhe Chen, **Fangming Liu**, Heming Cui, Wei Ni, and Jun Luo, ["RRTO: A High-Performance Transparent Offloading System for Model Inference in Mobile Edge Computing"](https://fangmingliu.github.io/files/tmc26-liu.pdf), IEEE Transactions on Mobile Computing, 2026.
 * Heqiang Wang, Weihong Yang, Xiaoxiong Zhong, Jia Zhou, **Fangming Liu**, Weizhe Zhang, and Keqin Li, ["Mitigating Modality Quantity and Quality Imbalance in Multimodal Online Federated Learning"](https://fangmingliu.github.io/files/tsp26.pdf), IEEE Transactions on Signal Processing, 2026.
