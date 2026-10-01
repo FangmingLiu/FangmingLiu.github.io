@@ -23,6 +23,7 @@ author_profile: true
 
 ## Associate Editor:
 
+* [IEEE Transactions on Computers](https://www.computer.org/csdl/journal/tc), Associate Editor, 2026-now
 * [IEEE Transactions on Sustainable Computing](https://www.computer.org/csdl/journal/su), Associate Editor, 2026-now
 * [Frontiers in High Performance Computing - High Performance Big Data Systems](https://www.frontiersin.org/journals/high-performance-computing/sections/high-performance-big-data-systems#editorial-board), Review Editor, 2022-now
 * [Journal of Computer Science and Technology (JCST)](http://jcst.ict.ac.cn/EN/1000-9000/home.shtml), Young AE, 2019 - now
